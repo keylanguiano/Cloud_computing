@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./CSS/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+    <title>Netflix Dupe</title>
+    
+  </head>
+  
+  <body>
+    
+    <div class="wrapper">
+
+      <header>
+
+        <div class="netflixLogo">
+          <a id="logo" href="#">
+            <img src="./ASSETS/IMAGES/logo.PNG" alt="Logo Image Netflix">
+          </a>
+        </div>
+
+        <nav class="main-nav">
+          <a href="#">Home</a>
+          <a href="#TVShows">TV Shows</a>
+          <a href="#Movies">Movies</a>
+          <a href="#Originals">Originals</a>
+          <a href="#Recently">Recently Added</a>
+          <a target="_blank" href="#">MyFb</a>
+        </nav>
+
+        <nav class="sub-nav">
+          <a href="#" class="fa fa-search sub-nav-logo" aria-hidden="true"></a>
+          <a href="#" class="fa fa-bell sub-nav-logo" aria-hidden="true"></a>
+          <a href="#" class="fa fa-user sub-nav-logo" aria-hidden="true"></a>
+        </nav>
+
+      </header>
+
+      <section class="main-container"> 
+        <div class="location" id="Home">
+          
+          <h1 id="Home">Popular on Netflix</h1>   
+          
+          <div class="box" id="Box_Popular">
+          <!-- Clonar lo más popular -->
+          </div>
+
+          <div class="movieDetails" id="movieDetails">
+          <!-- Detalle de la película -->
+          </div>
+
+        </div>
+      </section>
+      
+      <section class="link"></section>
+
+      <footer></footer>
+
+    </div>
+
+    <!-- Templates a utilizar -->
+    <template id="Img_Popular">
+      <div class="card">
+        <div class="card-detalles">
+          <img src="" alt="" class="card-img">
+          <p class="card-titulo">Titulo</p>
+        </div>
+        <button class="btnCard">More Info ...</button>
+      </div>
+    </template>
+
+    <template id="cardDetails">
+      <div class="poster">
+        <div id="detalles" class="poster-detalles">
+          <img id="poster_img" src="" alt="" class="poster-img">
+          <p id="poster_tipo" class="poster-p poster-tipo">Tipo</p>
+          <p id="poster_titulo" class="poster-titulo">Titulo</p>
+          <div class="poster-detalles-tabla">
+            <p id="poster_genero" class="poster-p poster-genero">Genero</p>
+            <p id="poster_anio" class="poster-p poster-anio">Anio</p>
+            <p id="poster_minutos" class="poster-p poster-minutos">Minutos</p>
+          </div>
+          <p id="poster_sinopsis" class="poster-p poster-sinopsis">Sinopsis</p>
+        </div>
+        <button id="btnPoster" class="btnPoster">Regresar</button>
+      </div>
+    </template>
+
+    <script src="./JS/app.js"></script>
+
+  </body>
+
+</html>

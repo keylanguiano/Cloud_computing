@@ -1,0 +1,311 @@
+/* CSS Variables*/
+
+:root
+{
+    --primary: #141414;
+    --light: #F3F3F3;
+    --dark: #686868;
+}
+
+*
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body
+{
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #000000bc;
+    color: var(--light);
+    box-sizing: border-box;
+    line-height: 1.4;
+}
+
+img
+{
+    max-width: 100%;
+}
+
+h1
+{
+    padding-top: 70px;
+    margin-left: 30px;
+}
+
+.wrapper
+{
+    margin: 0;
+    padding: 0;
+}
+
+.netflixLogo
+{
+    object-fit: cover;
+    width: 130px;
+    max-height: 100%;
+    padding-top: 0px;
+    margin-left: 20px;
+}
+
+.netflixLogo img
+{
+    height: auto;
+}
+
+#logo
+{
+    color: #E50914;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header 
+{
+    padding: 20px 20px 0 20px;
+    position: fixed;
+    top: 0;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-areas: "nt mn mn sb . . .";
+    background-color: var(--primary);
+    width: 100%;
+    margin-bottom: 0px;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.main-nav
+{
+    padding: 0 30px 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.main-nav a
+{
+    color: var(--light);
+    text-decoration: none;
+    margin-right: 35px;
+    font-size: 15px;
+}
+
+.main-nav a:hover
+{
+    color: var(--dark);
+}
+
+.sub-nav
+{
+    grid-area: sb;
+    padding: 0 40px 0 40px;
+}
+
+.sub-nav a{
+    color: var(--light);
+    text-decoration: none;
+    margin: 15px;
+}
+
+.sub-nav a:hover
+{
+    color: var(--dark);
+}
+
+#Box_Popular
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card 
+{
+    position: relative;
+    width: 30%;
+    height: 240px;
+    background-color: #000000c4;
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-detalles 
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.card-img 
+{
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    top: 0;
+    filter: brightness(0.6);
+    border-radius: 10px 10px 0 0;
+}
+
+.card-titulo {
+    color: white;
+    text-align: center;
+    padding: 0;
+    top: 30%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    font-size: 20px;
+}
+
+.card-img:hover {
+    filter: brightness(0.3);
+    transition: 0.1s ease-in-out;
+}
+
+.card-img:hover + .card-titulo,
+.card-titulo:hover {
+    font-weight: 800;
+    transition: transform 0.1s ease-in-out;
+}
+
+.btnCard 
+{
+    width: 90%;
+    background-color: #3e3e3e;
+    color: white;
+    height: 30px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: none;
+    font-size: 12px;
+    box-shadow: 0 0 10px rgba(161, 161, 161, 0.412);
+}
+
+.btnCard:hover
+{
+    background-color: #919191;
+    font-size: 15px;
+    box-shadow: 0 0 10px rgba(187, 187, 187, 0.631);
+}
+
+.poster
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poster-detalles 
+{
+    font-size: 1em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.poster-img
+{
+    height: 100vh;
+    width: auto;
+    object-fit: cover;
+    filter: brightness(0.65);
+    margin: 0;
+}
+
+.poster-p
+{
+    margin-left: 1em;
+    position: absolute;
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.poster-tipo
+{
+    font-size: 1.5em;
+    top: 41%;
+}
+
+.poster-titulo
+{
+    margin-left: 0.3em;
+    font-weight: 1000;
+    font-size: 4em;
+    top: 40%;
+    position: absolute;
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.poster-detalles-tabla
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.poster-genero
+{
+    font-size: 1.1em;
+    top: 55%;
+}
+
+.poster-anio
+{
+    font-size: 1.1em;
+    top: 55%;
+    left: 10%;
+}
+
+.poster-minutos
+{
+    font-size: 1.1em;
+    top: 55%;
+    left: 15%;
+}
+
+.poster-sinopsis
+{
+    font-size: 1em;
+    top: 65%;
+    margin-right: 30%;
+}
+
+.btnPoster
+{
+    width: 150px;
+    background-color: #777777;
+    color: white;
+    height: 40px;
+    border-radius: 15px;
+    bottom: 30px;
+    border: none;
+    font-size: 20px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(187, 187, 187, 0.412);
+}
+
+.btnPoster:hover
+{
+    background-color: #919191;
+    font-size: 22px;
+    box-shadow: 0 0 10px rgba(187, 187, 187, 0.631);
+}
