@@ -14,8 +14,6 @@ document.addEventListener ('DOMContentLoaded', () =>
 // Obtiene los resultados de las peliculas
 const loadData = async () =>
 {
-    details.innerHTML = '';
-
     const url = 'https://watchmode.p.rapidapi.com/releases';
     const options = 
     {
