@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poiret+One&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="./css/index.css">
+
+    <title>Local Business</title>
+</head>
+<body>
+    
+    <main class="container" id="container">
+        
+        <section class="search" id="search">
+            <p class="title">Discover places on the map</p>
+            <div class="input">
+                <input type="text" name="" id="input_search" class="input-search" placeholder="Search a Business">
+                <i class="fa-solid fa-magnifying-glass icon-search" id="icon_search"></i>
+            </div>
+        </section>
+
+        <section class="business" id="business">
+            <p id="card_titulo" class="card-titulo"></p>
+            <hr id="card-hr" class="hr card-hr">
+        </section>
+
+        <section class="businessDetails" id="businessDetails"></section>
+
+    </main>
+
+    <template id="business_card">
+        <div class="card">
+            <div class="img-container">
+                <img src="" alt="">
+            </div>
+
+            <div class="card-detalles">
+                <p id="card_negocio" class="card_negocio">Negocio</p>
+                <p id="card_tipo" class="card_tipo">Tipo</p>
+                <button id="btnCard" class="btn btnCard">Detalles</button>
+            </div>
+        </div>
+    </template>
+
+    <template id="business_details" class="business-details">
+        <div class="poster">
+        
+            <div class="poster-section-img">
+                <i class="fa-solid fa-chevron-left btnPoster" id="btnPoster"></i>
+                <img id="poster_img" src="" alt="" class="poster-img">
+            </div>
+
+            <div class="poster-business">
+
+                <div id="poster_informacion" class="poster-informacion">
+                    <p id="poster_nombre" class="poster-nombre">Nombre</p>
+                    <p id="poster_tipo" class="poster-tipo">Tipo</p>
+                    <div class="poster-informacion-detalles">
+                        <p id="poster_puntuacion" class="poster-puntuacion">Puntuacion</p>
+                        <p id="poster_estrellas" class="poster-estrellas">Estrellas</p>
+                    </div>
+                </div>
+
+                <hr class="hr">
+
+                <div class="poster-datos">
+                    <p class="poster-p">Information</p>
+                    <p id="poster_direccion" class="poster-direccion">Direccion</p>
+                    <p id="poster_numero" class="poster-minutos">Numero</p>
+                </div>
+
+                <hr class="hr">
+
+                <div class="poster-general-descripcion">
+                    <p class="poster-p">General description</p>
+                    <p id="poster_descripcion" class="poster-descripcion">Descripcion</p>
+                </div>
+
+                <hr class="hr">
+                
+                <div class="poster-opiniones">
+                    <p class="poster-p">Opinions</p>
+                    
+                    <div class="poster-puntuciones">
+                        <p id="poster_puntuacion_5" class="poster-puntuaciones">5</p>
+                        <p id="poster_puntuacion_4" class="poster-puntuaciones">4</p>
+                        <p id="poster_puntuacion_3" class="poster-puntuaciones">3</p>
+                        <p id="poster_puntuacion_2" class="poster-puntuaciones">2</p>
+                        <p id="poster_puntuacion_1" class="poster-puntuaciones">1</p>
+                        <p id="poster_puntuacion_total" class="poster-puntuacion-total">Puntuaciones</p>
+                    </div>
+
+                    <div class="poster-opiniones-categoria">
+                        <div class="poster-habitaciones">
+                            <div class="poster-habitaciones-detalles">
+                                <p class="poster-p-opiniones">• Rooms</p>
+                                <p id="poster_calificacion_habitaciones" class="poster-calificacion-habitaciones">Calificacion habitaciones</p>
+                            </div>
+                            <p id="poster_opinion_habitaciones" class="poster-opinion-habitaciones">Opinion habitaciones</p>
+                        </div>
+
+                        <div class="poster-ubicacion">
+                            <div class="poster-ubicacion-detalles">
+                                <p class="poster-p-opiniones">• Location</p>
+                                <p id="poster_calificacion_ubicacion" class="poster-calificacion-ubicacion">Calificacion ubicacion</p>
+                            </div>
+                            <p id="poster_opinion_ubicacion" class="poster-opinion-ubicacion">Opinion ubicacion</p>
+                        </div>
+
+                        <div class="poster-servicios">
+                            <div class="poster-servicios-detalles">
+                                <p class="poster-p-opiniones">• Services & facilities</p>
+                                <p id="poster_calificacion_servicios" class="poster-calificacion-servicios">Calificacion servicios</p>
+                            </div>
+                            <p id="poster_opinion_servicios" class="poster-opinion-servicios">Opinion servicios</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </template>
+
+    <script src="./JS/endpoints.js"></script>
+    <script src="./JS/index.js"></script>
+</body>
+</html>

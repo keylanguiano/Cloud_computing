@@ -1,0 +1,365 @@
+*
+{
+    font-family: 'Poiret One', sans-serif;
+}
+
+body
+{
+    width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.search 
+{
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 95vw;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('../ASSETS/BG1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+
+.title
+{
+    margin: 0;
+    padding: 0;
+    width: 95%;
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+    text-shadow: 0 0 4px rgba(70, 70, 70, 0.204);
+    margin-top: 160px;
+    margin-bottom: 40px;
+}
+
+.input
+{
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: #a2a2a2;
+    border-style: solid;
+    background-color: white;
+    display: flex;
+    position: relative;
+}
+
+.input-search
+{
+    width: 300px;
+    height: 30px;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    padding-left: 20px;
+}
+
+.icon-search
+{
+    font-size: 30px;
+    color: #a2a2a2;
+    position: absolute;
+    right: 20px;
+    top: 20%;
+}
+
+.icon-search:hover
+{
+    color: #c7c7c7;
+    cursor: pointer;
+}
+
+.business
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.card
+{
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #a2a2a2;
+    margin: 15px;
+    padding: 10px;
+}
+
+.card-titulo
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    width: 100vw;
+}
+
+.card-hr
+{
+    width: 95%;
+    margin-bottom: 70px;
+    display: inline;
+    visibility: hidden;
+}
+
+.img-container
+{
+    width: 100%;
+}
+
+.img-container > img
+{
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+}
+
+.card-detalles
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    min-height: 100px;
+    justify-content: flex-start;
+}
+
+.card_negocio
+{
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 10px 0 5px 0;
+}
+
+.card_tipo
+{
+    font-size: 0.6rem;
+    text-align: center;
+    margin: 0;
+}
+
+.btn
+{
+    padding: 5px;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    border: solid;
+}
+
+.btnCard 
+{
+    position: absolute;
+    bottom: 3px;
+    background-color: black;
+    color: white;
+    z-index: 100;
+    width: 100%;
+}
+
+.btnCard:hover
+{
+    background-color: rgb(65, 65, 65);
+    color: white;
+    cursor: pointer;
+}
+
+.business-details
+{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.poster 
+{
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poster-section-img
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    top: 0;
+}
+
+.poster-img
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0 0 20px 20px;
+    z-index: 0;
+    box-shadow: 0 0 20px #a2a2a2;
+}
+
+.btnPoster 
+{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 3.5rem;
+    left: 2rem;
+    text-shadow: 0 0 5px #a2a2a2;
+    z-index: 100;
+}
+
+.btnPoster:hover
+{
+    color: rgb(231, 231, 231);
+    cursor: pointer;
+}
+
+.poster-business
+{
+    margin: 0 70px 0 70px;
+    padding: 0;
+    text-align: center;
+}
+
+.hr
+{
+    border: solid;
+    border-color: #555555ca;
+    border-width: 1px;
+}
+
+.poster-informacion, .poster-datos, .poster-general-descripcion, .poster-opiniones
+{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.poster-informacion p, .poster-datos p, .poster-general-descripcion p .poster-opiniones p
+{
+    margin-bottom: 5px; 
+    margin-top: 5px;
+}
+
+.poster-p
+{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.poster-nombre
+{
+    font-size: 40px;
+    font-weight: 1000;
+    text-shadow: 0 0 1px #a2a2a2;
+    margin-top: 100px !important;
+}
+
+.poster-informacion-detalles
+{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center;
+}
+
+.poster-informacion-detalles p
+{
+    margin: 10px;
+}
+
+.poster-habitaciones, .poster-ubicacion, .poster-servicios
+{
+    margin-top: 30px;
+}
+
+.poster-habitaciones p, .poster-ubicacion p, .poster-servicios p
+{
+    margin-top: 0px;
+}
+
+.poster-habitaciones-detalles, .poster-ubicacion-detalles, .poster-servicios-detalles
+{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center;
+}
+
+.poster-habitaciones-detalles p, .poster-ubicacion-detalles p, .poster-servicios-detalles p
+{
+    margin: 10px;
+}
+
+.poster-p-opiniones
+{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.poster-opiniones-categoria
+{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}

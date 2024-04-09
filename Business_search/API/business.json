@@ -1,0 +1,4252 @@
+[
+  {
+      "business_id": "0x842b7407f803fa99:0x66b87a124c388af5",
+      "google_id": "0x842b7407f803fa99:0x66b87a124c388af5",
+      "place_id": "ChIJmfoD-Ad0K4QR9Yo4TBJ6uGY",
+      "google_mid": "/g/1thvyls0",
+      "phone_number": "+524737321567",
+      "name": "Edelmira Hotel Boutique",
+      "latitude": 21.0160402,
+      "longitude": -101.2523973,
+      "full_address": "Edelmira Hotel Boutique, Allende 7, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 456,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.edelmirahotel.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407f803fa99:0x66b87a124c388af5",
+      "cid": "7401800206590184181",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmfoD-Ad0K4QR9Yo4TBJ6uGY&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "105984277933881859084",
+      "owner_link": "https://maps.google.com/maps/contrib/105984277933881859084",
+      "owner_name": "Edelmira Hotel Boutique",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/6000000/5790000/5787600/5787565/dfc594da_z.jpg",
+              "x": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLTMYRGsRCuumsMRvk7EcRCsX2FBMhjt2x1E_V0YMwK2kBS7Ft53g9HXrJ4dxRpiQ0V3A-M16QZ9FbGQsFy_xaQ1TcXLJ3kv7RcIpkQhZGTqyi_p51oZU-pOEzWqRt7QAQ2qHTsd6nahda9Mot_yyPv7BocZq3hZE1jLJ_ctsRgGtyGWw7L624yow",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLTMYRGsRCuumsMRvk7EcRCsX2FBMhjt2x1E_V0YMwK2kBS7Ft53g9HXrJ4dxRpiQ0V3A-M16QZ9FbGQsFy_xaQ1TcXLJ3kv7RcIpkQhZGTqyi_p51oZU-pOEzWqRt7QAQ2qHTsd6nahda9Mot_yyPv7BocZq3hZE1jLJ_ctsRgGtyGWw7L624yow=w1000-h667-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0160989,
+              "longitude": -101.2523976,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-14T00:00:00.000Z",
+              "photo_timestamp": 1678752000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 18,
+          "2": 9,
+          "3": 21,
+          "4": 78,
+          "5": 330
+      },
+      "photo_count": 752,
+      "about": {
+          "summary": "Set in a 19th-century former residence, this charming downtown hotel is a 10-minute walk from Museo Regional de Guanajuato and a 12-minute walk from Monumento al Pípila. Featuring free Wi-Fi, the elegant rooms and suites also have flat-screen TVs, safes and desks. Some accommodations have stone walls. Suites add pull-out sofas, and some have balconies. Room service is available. Free, buffet-style breakfast is served in an international buffet/al a carte restaurant. Additional amenities include a city-view terrace bar and a spa. There's also an indoor pool, a hot tub and a fitness room.",
+          "details": null
+      },
+      "address": "Allende 7, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Allende 7",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.45,
+              "summary": [
+                  "Guests liked the clean rooms, though some commented maintenance could be improved",
+                  "Guests liked the comfortable beds",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.2,
+              "summary": [
+                  "Near the city center; sightseeing, restaurants & bars nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.9,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b73fc74309e7f:0x19d0f4825df02d25",
+      "google_id": "0x842b73fc74309e7f:0x19d0f4825df02d25",
+      "place_id": "ChIJf54wdPxzK4QRJS3wXYL00Bk",
+      "google_mid": "/g/1ylhld6h2",
+      "phone_number": "+524737320485",
+      "name": "Hotel Castillo Santa Cecilia",
+      "latitude": 21.0301384,
+      "longitude": -101.2586572,
+      "full_address": "Hotel Castillo Santa Cecilia, Camino A La Valenciana Km 01 S/N San Javier Guana, 36020 Guanajuato, Gto., Mexico",
+      "review_count": 5468,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.castillosantacecilia.com.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73fc74309e7f:0x19d0f4825df02d25",
+      "cid": "1860255486862961957",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf54wdPxzK4QRJS3wXYL00Bk&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "103354050598991956294",
+      "owner_link": "https://maps.google.com/maps/contrib/103354050598991956294",
+      "owner_name": "Hotel Castillo Santa Cecilia",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://photos.hotelbeds.com/giata/original/10/105313/105313a_hb_p_006.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLMYRLaALAisw_8Ju3hLXymTiQVvluj9heSWr3_cShAdht13VdY7jwbZmoCkGGLQrCVhtZtlReOgcQhJ2wHJ1d9YThHTbb4rkKEHtvTel7kjfX_5zuf32il9r7vkvkV39Qfv3r3JWMEjEwKYyVnpCv4KWbXrA5T8zU24kIpmgNx4Rme2u659dyLuw",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLMYRLaALAisw_8Ju3hLXymTiQVvluj9heSWr3_cShAdht13VdY7jwbZmoCkGGLQrCVhtZtlReOgcQhJ2wHJ1d9YThHTbb4rkKEHtvTel7kjfX_5zuf32il9r7vkvkV39Qfv3r3JWMEjEwKYyVnpCv4KWbXrA5T8zU24kIpmgNx4Rme2u659dyLuw=w2100-h1792-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0297257,
+              "longitude": -101.25940639999999,
+              "type": "photo",
+              "photo_datetime_utc": "2020-10-11T00:00:00.000Z",
+              "photo_timestamp": 1602374400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 421,
+          "2": 322,
+          "3": 575,
+          "4": 1213,
+          "5": 2937
+      },
+      "photo_count": 17728,
+      "about": {
+          "summary": "Set on a winding hillside street, this stately hotel in an ornate medieval-style castle is 1.3 km from Alhóndiga de Granaditas art and history museum, and 2.3 km from Museo De Las Momias de Guanajuato. Elegant rooms offer TVs and desks. Some rooms add 4-poster beds, vaulted brick ceilings and/or antique-style furnishings. Room service is available. There's a refined restaurant and a bar with a terrace. Other amenities include an outdoor pool, a garden and a courtyard with a fountain, as well as a kids' playground and an on-site chapel. Parking is free.",
+          "details": null
+      },
+      "address": "Camino A La Valenciana Km 01 S/N San Javier Guana, 36020 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "San Javier",
+      "street_address": "Camino A La Valenciana Km 01 S/N San Javier Guana",
+      "city": "Guanajuato",
+      "zipcode": "36020",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.1,
+              "summary": [
+                  "Guests liked the large rooms, though some said they were dated & cleanliness & maintenance could be improved",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.4,
+              "summary": [
+                  "Shopping & sightseeing nearby",
+                  "Easily accessible by car"
+              ]
+          },
+          "Service & facilities": {
+              "score": 2.1,
+              "summary": [
+                  "Some guests said management, reception & housekeeping could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407ef00caf7:0xe66d1b82bd2106ad",
+      "google_id": "0x842b7407ef00caf7:0xe66d1b82bd2106ad",
+      "place_id": "ChIJ98oA7wd0K4QRrQYhvYIbbeY",
+      "google_mid": "/g/1tggb8z4",
+      "phone_number": "+524737321321",
+      "name": "HOTEL SAN DIEGO",
+      "latitude": 21.0157921,
+      "longitude": -101.2531822,
+      "full_address": "HOTEL SAN DIEGO, Jdn. de la Unión 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 1375,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelsd.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407ef00caf7:0xe66d1b82bd2106ad",
+      "cid": "16603957649517643437",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ98oA7wd0K4QRrQYhvYIbbeY&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "104564260902746492847",
+      "owner_link": "https://maps.google.com/maps/contrib/104564260902746492847",
+      "owner_name": "HOTEL SAN DIEGO",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://photos.hotelbeds.com/giata/original/54/543322/543322a_hb_a_004.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJ-hxz_09LYx4cgweFafVItsP5cKV4OKps5AiOL9x257EhN4sEgTxx5W_G1UG9rtIyVqywmZ_ngMaCIWMeNzPF8SHuwKL_ilfiHFnS9CEqf2GdwSRvgEHxBCK0OvT_7QCNLAjwy_vHZZHcB8OQpoxzmiC3MotVEJJkRP48Y-Cv1ZOpHNGz83q0",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJ-hxz_09LYx4cgweFafVItsP5cKV4OKps5AiOL9x257EhN4sEgTxx5W_G1UG9rtIyVqywmZ_ngMaCIWMeNzPF8SHuwKL_ilfiHFnS9CEqf2GdwSRvgEHxBCK0OvT_7QCNLAjwy_vHZZHcB8OQpoxzmiC3MotVEJJkRP48Y-Cv1ZOpHNGz83q0=w2000-h1333-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0158375,
+              "longitude": -101.253166,
+              "type": "photo",
+              "photo_datetime_utc": "2022-02-08T00:00:00.000Z",
+              "photo_timestamp": 1644278400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 57,
+          "2": 34,
+          "3": 103,
+          "4": 342,
+          "5": 839
+      },
+      "photo_count": 2555,
+      "about": {
+          "summary": "A 2-minute walk from 1900s Teatro Juarez, this low-key hotel is a minute's walk from Jardín de la Unión and 4 km from the Museum of the Mummies of Guanajuato. The unfussy rooms (no air-conditioning) include flat-screen TVs, fans and free Wi-Fi, plus safes. Some feature bright accent walls. Upgraded rooms add balconies with city views. Suites offer separate living areas or inter-connecting bedrooms. Amenities include a restaurant and a bar, plus a courtyard with a fountain. Parking is available.",
+          "details": null
+      },
+      "address": "Jdn. de la Unión 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Jdn. de la Unión 1",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.2,
+              "summary": [
+                  "Rooms had views",
+                  "Some guests said the rooms were dated, and that cleanliness & maintenance could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.1,
+              "summary": [
+                  "Near the city center; sightseeing, restaurants & bars nearby",
+                  "Easily accessible by car"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.45,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Some guests said reception & housekeeping could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408f47d8f8d:0x376dcdea1970a938",
+      "google_id": "0x842b7408f47d8f8d:0x376dcdea1970a938",
+      "place_id": "ChIJjY999Ah0K4QROKlwGerNbTc",
+      "google_mid": "/g/1tg79c5x",
+      "phone_number": "+524734540262",
+      "name": "Hotel Real Guanajuato",
+      "latitude": 21.0181214,
+      "longitude": -101.25489519999999,
+      "full_address": "Hotel Real Guanajuato, Positos 39, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 952,
+      "rating": 3.8,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://rmhoteles.com.mx/hotel-real-guanajuato",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408f47d8f8d:0x376dcdea1970a938",
+      "cid": "3994074849880353080",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjY999Ah0K4QROKlwGerNbTc&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "111696299800432640017",
+      "owner_link": "https://maps.google.com/maps/contrib/111696299800432640017",
+      "owner_name": "Hotel Real Guanajuato",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOjNCmMAA40kBLoKwN1FptpkBMU_zHThYgpdBVI",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOjNCmMAA40kBLoKwN1FptpkBMU_zHThYgpdBVI",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOjNCmMAA40kBLoKwN1FptpkBMU_zHThYgpdBVI=w1600-h1066-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0181584,
+              "longitude": -101.25494929999999,
+              "type": "photo",
+              "photo_datetime_utc": "2023-05-06T00:00:00.000Z",
+              "photo_timestamp": 1683331200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 128,
+          "2": 46,
+          "3": 125,
+          "4": 229,
+          "5": 424
+      },
+      "photo_count": 995,
+      "about": {
+          "summary": "In an enduring building next to a tunnel on a narrow cobblestone street, this quaint hotel is a 4-minute walk from the art and history exhibitions at the Alhóndiga de Granaditas, and an 11-minute walk from the Monumento al Pípila statue. Featuring rustic decor and wood-beamed ceilings, the charming rooms come with free Wi-Fi, cable TV and separate sitting areas. Some add balconies, kitchenettes and/or marble bathrooms. There is no air-conditioning. Amenities include a a rooftop terrace and complimentary parking.",
+          "details": null
+      },
+      "address": "Positos 39, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Positos 39",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.05,
+              "summary": [
+                  "Rooms had views",
+                  "Some guests said the rooms were small & dated, and that cleanliness & maintenance could be improved",
+                  "Some guests noted the rooms could be quieter & beds could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.2,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.25,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b74087be1a773:0x67ab28202fde7288",
+      "google_id": "0x842b74087be1a773:0x67ab28202fde7288",
+      "place_id": "ChIJc6fhewh0K4QRiHLeLyAoq2c",
+      "google_mid": "/g/1tt1hjsl",
+      "phone_number": "+524737325228",
+      "name": "La Casona de Don Lucas Hotel",
+      "latitude": 21.0168939,
+      "longitude": -101.2546375,
+      "full_address": "La Casona de Don Lucas Hotel, Pl. De La Paz 48, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 462,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://lacasonadedonlucas.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b74087be1a773:0x67ab28202fde7288",
+      "cid": "7470108525631271560",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc6fhewh0K4QRiHLeLyAoq2c&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "100554924145115065338",
+      "owner_link": "https://maps.google.com/maps/contrib/100554924145115065338",
+      "owner_name": "La Casona de Don Lucas Hotel",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/5/0/87/783/888/Exterior_O.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WKMAvcHEVQj3eDrRtnERJE2hCgpoyf4IT4ncu0dh-ZurLrpZYtJfyiYyh8OpVJwiqITsMwXvVJSTkDlnYj6rjmnOVu66J2_RjDbFC4Fnufpf3nGan5G30A2YCO6wMWaxiBcB6w2al3eYxX89Ts5l7NcLqTIfN2Ebhd8FUI_GhD-4jUfN50f7dzx",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WKMAvcHEVQj3eDrRtnERJE2hCgpoyf4IT4ncu0dh-ZurLrpZYtJfyiYyh8OpVJwiqITsMwXvVJSTkDlnYj6rjmnOVu66J2_RjDbFC4Fnufpf3nGan5G30A2YCO6wMWaxiBcB6w2al3eYxX89Ts5l7NcLqTIfN2Ebhd8FUI_GhD-4jUfN50f7dzx=w2048-h1536-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.017024799999998,
+              "longitude": -101.2545691,
+              "type": "photo",
+              "photo_datetime_utc": "2020-01-04T00:00:00.000Z",
+              "photo_timestamp": 1578096000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 12,
+          "2": 7,
+          "3": 18,
+          "4": 96,
+          "5": 329
+      },
+      "photo_count": 897,
+      "about": {
+          "summary": "A minutes' walk from the lively Plaza de La Paz, this refined, Spanish Colonial-style hotel within a pedestrian area of the historic district is a 3-minute walk from Museo Casa Diego Rivera. The old-world rooms are individually decorated, and come with Wi-Fi and flat-screen TVs. Some rooms include kitchenettes and/or plaza views. Room service is available. Breakfast is served in a colorful, interior courtyard.",
+          "details": null
+      },
+      "address": "Pl. De La Paz 48, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Pl. De La Paz 48",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.8,
+              "summary": [
+                  "Guests liked the large, clean rooms",
+                  "Guests liked the beds, though some noted the rooms could be quieter",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.25,
+              "summary": [
+                  "Near the city center; sightseeing, restaurants & bars nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.55,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407f2322df9:0x907666c128a67a6f",
+      "google_id": "0x842b7407f2322df9:0x907666c128a67a6f",
+      "place_id": "ChIJ-S0y8gd0K4QRb3qmKMFmdpA",
+      "google_mid": "/g/113f95fng",
+      "phone_number": "+524737322992",
+      "name": "1850 Hotel Boutique",
+      "latitude": 21.0158693,
+      "longitude": -101.2526053,
+      "full_address": "1850 Hotel Boutique, Jdn. de la Unión 7, Centro Histórico de la Cdad. de México, Zona Centro, 36250 Guanajuato, Gto., Mexico",
+      "review_count": 337,
+      "rating": 4.7,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotel1850.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407f2322df9:0x907666c128a67a6f",
+      "cid": "10409620568510200431",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-S0y8gd0K4QRb3qmKMFmdpA&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "111716552011379407454",
+      "owner_link": "https://maps.google.com/maps/contrib/111716552011379407454",
+      "owner_name": "1850 Hotel Boutique",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Bar & grill",
+          "Gym",
+          "Spa"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipMDoyhjDkkMq7ntMSTa1Lfw5urIB8FiKEjxKQgc",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMDoyhjDkkMq7ntMSTa1Lfw5urIB8FiKEjxKQgc",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMDoyhjDkkMq7ntMSTa1Lfw5urIB8FiKEjxKQgc=w6000-h4000-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.016085,
+              "longitude": -101.25264899999999,
+              "type": "photo",
+              "photo_datetime_utc": "2015-05-26T00:00:00.000Z",
+              "photo_timestamp": 1432598400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 6,
+          "2": 3,
+          "3": 6,
+          "4": 41,
+          "5": 281
+      },
+      "photo_count": 919,
+      "about": {
+          "summary": "In a neoclassical building opposite Jardín de la Unión, this contemporary boutique hotel is a 6-minute walk from Museo Casa Diego Rivera and an 11-minute walk from the massive, hilltop Monumento al Pípila. Chic, individually decorated rooms and suites provide Wi-Fi, flat-screen TVs, iPod docks and Egyptian cotton linens. Added features in some quarters include beamed ceilings, whirlpool tubs, balconies and/or city views. Room service is available. Breakfast is available. Other amenities include a rooftop bar, a spa and an exercise room, plus a lounge, a Starbucks, and a restaurant with a terrace.",
+          "details": null
+      },
+      "address": "Jdn. de la Unión 7, Centro Histórico de la Cdad. de México, Zona Centro, 36250 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Centro Histórico de la Ciudad de México, Zona Centro",
+      "street_address": "Jdn. de la Unión 7",
+      "city": "Guanajuato",
+      "zipcode": "36250",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.8,
+              "summary": [
+                  "Guests liked the comfortable beds",
+                  "Guests liked the large, clean rooms",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.85,
+              "summary": [
+                  "Near the city center"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.7,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408674deb55:0x1b3552543c88b34e",
+      "google_id": "0x842b7408674deb55:0x1b3552543c88b34e",
+      "place_id": "ChIJVetNZwh0K4QRTrOIPFRSNRs",
+      "google_mid": "/g/1wc31kqh",
+      "phone_number": "+524737320705",
+      "name": "El Mesón de los Poetas",
+      "latitude": 21.0180573,
+      "longitude": -101.2548475,
+      "full_address": "El Mesón de los Poetas, Positos 35, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 1006,
+      "rating": 4.7,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.mesondelospoetas.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408674deb55:0x1b3552543c88b34e",
+      "cid": "1960563734536041294",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVetNZwh0K4QRTrOIPFRSNRs&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "109628773527765865158",
+      "owner_link": "https://maps.google.com/maps/contrib/109628773527765865158",
+      "owner_name": "El Mesón de los Poetas",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/9000000/8010000/8001100/8001077/ef039e92_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLkP2aTvyWI9fzxr5Fd6rfdllpmWLbPKV3nVBohJzH2EqW97sVUalWM7Hh0KtsbKrer2HLwHVh1Acf19-zzqmRe9P4HRv_IKxUnVx73Xc2Vv5UJYFDfmZiNE3U-3_FEnAhG404yk6wYiS3eiVQqTmNWqnUV9fuFmM4KCsUzf7LXhcOJLP2RlBPAoQ",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLkP2aTvyWI9fzxr5Fd6rfdllpmWLbPKV3nVBohJzH2EqW97sVUalWM7Hh0KtsbKrer2HLwHVh1Acf19-zzqmRe9P4HRv_IKxUnVx73Xc2Vv5UJYFDfmZiNE3U-3_FEnAhG404yk6wYiS3eiVQqTmNWqnUV9fuFmM4KCsUzf7LXhcOJLP2RlBPAoQ=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0180476,
+              "longitude": -101.2548798,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-14T00:00:00.000Z",
+              "photo_timestamp": 1678752000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 19,
+          "2": 6,
+          "3": 31,
+          "4": 178,
+          "5": 772
+      },
+      "photo_count": 1889,
+      "about": {
+          "summary": "Set on a cobbled street, this informal hotel is a 5-minute walk from Jardín de la Unión and a 4-minute walk from the Regional Museum of Guanajuato Alhóndiga de Granaditas. Decorated in warm tones, the snug rooms and suites with terracotta tile floors provide Wi-Fi access, flat-screen TVs and en suite bathrooms. Some have sitting areas, balconies and/or minifridges. There's a cafe and a TV lounge. Breakfast is available.",
+          "details": null
+      },
+      "address": "Positos 35, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Positos 35",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.7,
+              "summary": [
+                  "Guests liked the clean rooms, though some said they were dated & maintenance could be improved",
+                  "Rooms had views",
+                  "Some guests said the bathrooms were small"
+              ]
+          },
+          "Location": {
+              "score": 4.35,
+              "summary": [
+                  "Near the city center; shopping, sightseeing, restaurants & bars nearby",
+                  "Easily accessible by car"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.85,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b741042a08177:0x56c3d3a50914a159",
+      "google_id": "0x842b741042a08177:0x56c3d3a50914a159",
+      "place_id": "ChIJd4GgQhB0K4QRWaEUCaXTw1Y",
+      "google_mid": "/g/1thks07t",
+      "phone_number": "+524737321247",
+      "name": "Hotel Real De Minas Guanajuato",
+      "latitude": 21.0160388,
+      "longitude": -101.26634899999999,
+      "full_address": "Hotel Real De Minas Guanajuato, Nejayote 17, Los Pastitos, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 4362,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelesrealdeminas.com.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b741042a08177:0x56c3d3a50914a159",
+      "cid": "6252073413495791961",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd4GgQhB0K4QRWaEUCaXTw1Y&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "111214536110956805219",
+      "owner_link": "https://maps.google.com/maps/contrib/111214536110956805219",
+      "owner_name": "Hotel Real De Minas Guanajuato",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/7000000/6550000/6547900/6547838/32f0aaed_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLCY3vBxDODoWHyz-T1zmD0TTcLLFjTixTDmXEwU_fVM0K7LaPvH-iEtMN996UR5mFcsXaS_gAeqWI_4fNzCElC2J3q57slNxBh6K8_5dDM01O7HM9b_rEBXVtGQ5JJ6Bo4gT_Iq_FEIcBGyo_eervcbxJ2McTz7NBlXma-HEBjlnWdlBYnW1QL",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLCY3vBxDODoWHyz-T1zmD0TTcLLFjTixTDmXEwU_fVM0K7LaPvH-iEtMN996UR5mFcsXaS_gAeqWI_4fNzCElC2J3q57slNxBh6K8_5dDM01O7HM9b_rEBXVtGQ5JJ6Bo4gT_Iq_FEIcBGyo_eervcbxJ2McTz7NBlXma-HEBjlnWdlBYnW1QL=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.015830400000002,
+              "longitude": -101.26668599999999,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-10T00:00:00.000Z",
+              "photo_timestamp": 1678406400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 186,
+          "2": 146,
+          "3": 469,
+          "4": 1337,
+          "5": 2224
+      },
+      "photo_count": 2761,
+      "about": {
+          "summary": "Set in a former Spanish Colonial hacienda, this relaxed hotel is a 14-minute walk from the historical Museo de las Momias de Guanajuato, and 2 km from the neoclassical Teatro Juarez. Polished rooms offer flat-screen TVs and complimentary Wi-Fi. Suites add living areas, and upgraded suites come with ornate decor, stone fireplaces, and ceilings with exposed wood beams. Room service is available. Parking is free. Other amenities include a restaurant, an outdoor pool and event space.",
+          "details": null
+      },
+      "address": "Nejayote 17, Los Pastitos, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Los Pastitos",
+      "street_address": "Nejayote 17",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.35,
+              "summary": [
+                  "Guests liked the large rooms, though some said cleanliness & maintenance could be improved",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.3,
+              "summary": [
+                  "Parking available",
+                  "Sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.35,
+              "summary": [
+                  "Some guests said housekeeping could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407bed9b2d1:0xc93e9769c953b90b",
+      "google_id": "0x842b7407bed9b2d1:0xc93e9769c953b90b",
+      "place_id": "ChIJ0bLZvgd0K4QRC7lTyWmXPsk",
+      "google_mid": "/g/11xcdlywh",
+      "phone_number": "+524737325586",
+      "name": "Hotel Chocolate",
+      "latitude": 21.0150032,
+      "longitude": -101.2537918,
+      "full_address": "Hotel Chocolate, Constancia 13, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 311,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": null,
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407bed9b2d1:0xc93e9769c953b90b",
+      "cid": "14501194330784643339",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0bLZvgd0K4QRC7lTyWmXPsk&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113306218923094824513",
+      "owner_link": "https://maps.google.com/maps/contrib/113306218923094824513",
+      "owner_name": "Hotel Chocolate",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/34000000/33250000/33243900/33243896/3f601d9c_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIQVcw4url1gUmtKqWnvzbj2Me0ZZyfJQqWcyqoD7kSDpjHzyfVsAOnFry6vtkMmu-6prp2BLYskpsE_7vF6sQcVkVKGDl9WsrlD6AQsEwVjQq4M181FCFvyhSgQMylYQQEVTfrKJ5Uxenu2zASJiJ1Zxa-_opaZ07GyJDZUAFhZMU3YRGMB-xISg",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIQVcw4url1gUmtKqWnvzbj2Me0ZZyfJQqWcyqoD7kSDpjHzyfVsAOnFry6vtkMmu-6prp2BLYskpsE_7vF6sQcVkVKGDl9WsrlD6AQsEwVjQq4M181FCFvyhSgQMylYQQEVTfrKJ5Uxenu2zASJiJ1Zxa-_opaZ07GyJDZUAFhZMU3YRGMB-xISg=w750-h1000-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0152212,
+              "longitude": -101.25380460000001,
+              "type": "photo",
+              "photo_datetime_utc": "2023-06-18T00:00:00.000Z",
+              "photo_timestamp": 1687046400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 23,
+          "2": 12,
+          "3": 30,
+          "4": 73,
+          "5": 173
+      },
+      "photo_count": 692,
+      "about": {
+          "summary": "This unfussy hotel with a chocolate theme is a 10-minute walk from the history museum at the Alhóndiga de Granaditas and a 6-minute walk from the Museo Casa Diego Rivera (housed in the artist's birthplace). Featuring wood floors and Colonial furnishings, the warmly decorated rooms come with free Wi-Fi and flat-screen TVs. Most offer have balconies or terraces. A cup of hot chocolate is complimentary, and there's an airy, relaxed restaurant with a bar. Valet parking is available (fee).",
+          "details": null
+      },
+      "address": "Constancia 13, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Constancia 13",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.25,
+              "summary": [
+                  "Rooms had views",
+                  "Guests liked the large rooms, though some said cleanliness & maintenance could be improved",
+                  "Some guests noted the rooms could be quieter & beds could be improved"
+              ]
+          },
+          "Location": {
+              "score": 3.9,
+              "summary": [
+                  "Near the city center; sightseeing nearby",
+                  "Easily accessible by car"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.5,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407fbaf4f6b:0xa1ce9e55e0a934f6",
+      "google_id": "0x842b7407fbaf4f6b:0xa1ce9e55e0a934f6",
+      "place_id": "ChIJa0-v-wd0K4QR9jSp4FWezqE",
+      "google_mid": "/g/1tj9tngy",
+      "phone_number": "+524737320084",
+      "name": "Hotel Posada Santa Fe",
+      "latitude": 21.0161318,
+      "longitude": -101.25262649999999,
+      "full_address": "Hotel Posada Santa Fe, Jdn. de la Unión 12, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 1163,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.posadasantafe.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407fbaf4f6b:0xa1ce9e55e0a934f6",
+      "cid": "11659430576987387126",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa0-v-wd0K4QR9jSp4FWezqE&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "105911808204122672334",
+      "owner_link": "https://maps.google.com/maps/contrib/105911808204122672334",
+      "owner_name": "Hotel Posada Santa Fe",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Restaurant"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPxzs-izPUNeAqkYi0FMa-pnwaGmTRgAq2_7RKJ",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPxzs-izPUNeAqkYi0FMa-pnwaGmTRgAq2_7RKJ",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPxzs-izPUNeAqkYi0FMa-pnwaGmTRgAq2_7RKJ=w3264-h2448-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.016518599999998,
+              "longitude": -101.25260689999999,
+              "type": "photo",
+              "photo_datetime_utc": "2016-05-05T00:00:00.000Z",
+              "photo_timestamp": 1462406400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 80,
+          "2": 36,
+          "3": 99,
+          "4": 305,
+          "5": 643
+      },
+      "photo_count": 2049,
+      "about": {
+          "summary": "Set in Guanajuato's historic downtown area, this 1892 colonial hotel faces the scenic Jardin de la Union and is a 1-minute walk from Teatro Juárez and a 9-minute walk from Museo Regional de Alhóndiga de Granaditas. Refined rooms and suites feature wooden furniture and antique lamps, plus free Wi-Fi and flat-screen TVs. Upgrades add sitting areas, whirlpool tubs and/or access to a rooftop terrace. There's no air-conditioning. Room service is available. Parking is free. There's a bar, and a classic restaurant with an international menu, a terrace and park views. Other amenities include a solarium with a hot tub.",
+          "details": null
+      },
+      "address": "Jdn. de la Unión 12, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Jdn. de la Unión 12",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.2,
+              "summary": [
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Some guests commented the rooms were small",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.55,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740e558bb77b:0x2f5f62aabc5cf74a",
+      "google_id": "0x842b740e558bb77b:0x2f5f62aabc5cf74a",
+      "place_id": "ChIJe7eLVQ50K4QRSvdcvKpiXy8",
+      "google_mid": "/g/11fn5typ7g",
+      "phone_number": "+524731380000",
+      "name": "Hotel Indigo Guanajuato, an IHG Hotel",
+      "latitude": 21.0195032,
+      "longitude": -101.26095169999999,
+      "full_address": "Hotel Indigo Guanajuato, an IHG Hotel, C. Pardo 5, Col. Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 498,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.ihg.com/hotelindigo/hotels/us/en//guanajuato/bjxgd/hoteldetail",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740e558bb77b:0x2f5f62aabc5cf74a",
+      "cid": "3413555528014296906",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe7eLVQ50K4QRSvdcvKpiXy8&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "112928606495396565787",
+      "owner_link": "https://maps.google.com/maps/contrib/112928606495396565787",
+      "owner_name": "Hotel Indigo Guanajuato, an IHG Hotel",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Conference center",
+          "Wedding venue"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPNg885pomXQz_HWw49Q4gK2xL03YRgBEInc_oi",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPNg885pomXQz_HWw49Q4gK2xL03YRgBEInc_oi",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPNg885pomXQz_HWw49Q4gK2xL03YRgBEInc_oi=w2048-h1152-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0195032,
+              "longitude": -101.26095169999999,
+              "type": "photo",
+              "photo_datetime_utc": "2020-08-09T00:00:00.000Z",
+              "photo_timestamp": 1596931200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 11,
+          "2": 5,
+          "3": 16,
+          "4": 98,
+          "5": 368
+      },
+      "photo_count": 646,
+      "about": {
+          "summary": "Off Highway 110, this contemporary hotel on a cobbled side street in a commercial area is a 14-minute walk from the leafy grounds of Jardín de la Unión and 15 minutes’ walk from the Museum of the Mummies of Guanajuato. Featuring vibrant murals, the hip rooms provide flat-screen TVs, Wi-Fi and coffeemakers. Suites add sitting areas, minifridges, microwaves and wet bars. There's a fashionable restaurant and an airy, relaxed lobby lounge. Breakfast and parking are available.",
+          "details": null
+      },
+      "address": "C. Pardo 5, Col. Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Col. Centro",
+      "street_address": "C. Pardo 5",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.95,
+              "summary": [
+                  "Guests liked the large, clean rooms",
+                  "Guests liked the comfortable beds"
+              ]
+          },
+          "Location": {
+              "score": 4.75,
+              "summary": [
+                  "Near the city center; sightseeing nearby",
+                  "Parking available"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.4,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408673bdea3:0xcc3e48258da0721c",
+      "google_id": "0x842b7408673bdea3:0xcc3e48258da0721c",
+      "place_id": "ChIJo947Zwh0K4QRHHKgjSVIPsw",
+      "google_mid": "/g/11c1vjkyrj",
+      "phone_number": "+524737329200",
+      "name": "Casa del Rector Hotel Boutique",
+      "latitude": 21.0180239,
+      "longitude": -101.25477889999999,
+      "full_address": "Casa del Rector Hotel Boutique, Positos 33, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 722,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.casadelrector.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408673bdea3:0xcc3e48258da0721c",
+      "cid": "14717279958420451868",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo947Zwh0K4QRHHKgjSVIPsw&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "110195519678293546186",
+      "owner_link": "https://maps.google.com/maps/contrib/110195519678293546186",
+      "owner_name": "Casa del Rector Hotel Boutique",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/18000000/17070000/17061300/17061272/1759c603_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WKmxfewzqyfJNqTZ8-cs0_ui0l8LViZQ-_x5gCOJvwvu_Vn1fgqBk9IN72_f6Z0o6pLiRQIWl0x84d3UPFBwO7np-xwwrTHY2Ymr4_mg0Ez48lEdzlXsgKl_M_DISKmXmKn2GzrwwLsHCyjD4yCGzTGNCtm4z1Ng4PKJnhznHVNCMIoJH6t0AZPPg",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WKmxfewzqyfJNqTZ8-cs0_ui0l8LViZQ-_x5gCOJvwvu_Vn1fgqBk9IN72_f6Z0o6pLiRQIWl0x84d3UPFBwO7np-xwwrTHY2Ymr4_mg0Ez48lEdzlXsgKl_M_DISKmXmKn2GzrwwLsHCyjD4yCGzTGNCtm4z1Ng4PKJnhznHVNCMIoJH6t0AZPPg=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0179929,
+              "longitude": -101.25480499999999,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-14T00:00:00.000Z",
+              "photo_timestamp": 1678752000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 26,
+          "2": 11,
+          "3": 26,
+          "4": 72,
+          "5": 587
+      },
+      "photo_count": 1499,
+      "about": {
+          "summary": "Set along a cobbled street in an early 19th-century neoclassical building, this genteel boutique hotel features works from contemporary Mexican artists. It's a 4-minute walk from both Alhóndiga de Granaditas museum and the romantic landmark, Callejón Del Beso. Refined, warm rooms feature tufted headboards, exposed wood beams and flat-screen TVs. Grand suites add separate living rooms; some have stone walls, and/or balconies or terraces. An upgraded suite comes with a dining room. Amenities include a stylish restaurant and a terrace with a vertical garden. A rooftop terrace offers striking city views, a bar and a pool.",
+          "details": null
+      },
+      "address": "Positos 33, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Positos 33",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 4.45,
+              "summary": [
+                  "Rooms had views",
+                  "Guests liked the large, clean rooms",
+                  "Guests liked the comfortable beds"
+              ]
+          },
+          "Location": {
+              "score": 4.1
+          },
+          "Service & facilities": {
+              "score": 3.85,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Guests enjoyed the pool",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b76832d2e1503:0x12ecebcdaa13e0b",
+      "google_id": "0x842b76832d2e1503:0x12ecebcdaa13e0b",
+      "place_id": "ChIJAxUuLYN2K4QRCz6h2rzOLgE",
+      "google_mid": "/g/11c5rpt0mx",
+      "phone_number": "+524737323980",
+      "name": "Hotel Misión Guanajuato",
+      "latitude": 21.0094623,
+      "longitude": -101.273056,
+      "full_address": "Hotel Misión Guanajuato, Camino Antiguo, A Marfil km 2.5, Noria Alta, 36050 Guanajuato, Gto., Mexico",
+      "review_count": 2644,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.hotelesmision.com.mx/destinos/guanajuato/hotel-mision-guanajuato",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b76832d2e1503:0x12ecebcdaa13e0b",
+      "cid": "85232753483791883",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAxUuLYN2K4QRCz6h2rzOLgE&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "118034639017426354878",
+      "owner_link": "https://maps.google.com/maps/contrib/118034639017426354878",
+      "owner_name": "Hotel Misión Guanajuato",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPCtIEvagkrE_EoxQefqXDISBUU58tjsbNYGBXD",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPCtIEvagkrE_EoxQefqXDISBUU58tjsbNYGBXD",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPCtIEvagkrE_EoxQefqXDISBUU58tjsbNYGBXD=w2048-h1536-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0093499,
+              "longitude": -101.2733856,
+              "type": "photo",
+              "photo_datetime_utc": "2016-03-22T00:00:00.000Z",
+              "photo_timestamp": 1458604800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 149,
+          "2": 103,
+          "3": 333,
+          "4": 737,
+          "5": 1322
+      },
+      "photo_count": 2826,
+      "about": {
+          "summary": "Set in a 17th-century hacienda, this casual hotel is a 2-minute walk from Museo Exhacienda San Gabriel De Barrera, a museum in a 17th-century Colonial mansion, and 3 km from downtown Guanajato. The laid-back rooms and suites come with complimentary Wi-Fi and flat-screen TVs, as well as coffeemakers and seating areas. Room service is available. Amenities include a casual restaurant, a bar and an indoor pool. There's also a hot tub and free parking.",
+          "details": null
+      },
+      "address": "Camino Antiguo, A Marfil km 2.5, Noria Alta, 36050 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Noria Alta",
+      "street_address": "Camino Antiguo, A Marfil km 2.5",
+      "city": "Guanajuato",
+      "zipcode": "36050",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.25,
+              "summary": [
+                  "Guests liked the large rooms, though some said cleanliness & maintenance could be improved",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 3.1,
+              "summary": [
+                  "Sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 2.25,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b74737de7e565:0x83a9162cb055e086",
+      "google_id": "0x842b74737de7e565:0x83a9162cb055e086",
+      "place_id": "ChIJZeXnfXN0K4QRhuBVsCwWqYM",
+      "google_mid": "/g/11dz1xhq9r",
+      "phone_number": "+524737322140",
+      "name": "Hotel Abadia Plaza",
+      "latitude": 21.0309047,
+      "longitude": -101.2579727,
+      "full_address": "Hotel Abadia Plaza, A Dolores Hidalgo 1-Km. 1, San Javier, 36020 Guanajuato, Gto., Mexico",
+      "review_count": 1041,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hoteleslaabadia.com",
+      "verified": false,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b74737de7e565:0x83a9162cb055e086",
+      "cid": "9487138471225450630",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZeXnfXN0K4QRhuBVsCwWqYM&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "108070712504203165173",
+      "owner_link": "https://maps.google.com/maps/contrib/108070712504203165173",
+      "owner_name": "Hotel Abadia Plaza",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/7000000/6510000/6507600/6507548/ddcf4c74_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLzOmCZzszbYkG98CBG2Egepm3KHPDmdy4u6YrILVo9Ag92IVlaLyfcAblkKFBSarspv9p1hs7WCPk2p8fIo0ebN54uAKSMJLYHs5emiLtu7MgzxDybsHGoYJZoDeM8gCkkaT_deMslyUwMFjZZeiNjAv_xEjUltv3asgJRNRqjx5mKIyFPovY",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLzOmCZzszbYkG98CBG2Egepm3KHPDmdy4u6YrILVo9Ag92IVlaLyfcAblkKFBSarspv9p1hs7WCPk2p8fIo0ebN54uAKSMJLYHs5emiLtu7MgzxDybsHGoYJZoDeM8gCkkaT_deMslyUwMFjZZeiNjAv_xEjUltv3asgJRNRqjx5mKIyFPovY=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0308404,
+              "longitude": -101.25824519999999,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-14T00:00:00.000Z",
+              "photo_timestamp": 1678752000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 43,
+          "2": 35,
+          "3": 117,
+          "4": 340,
+          "5": 506
+      },
+      "photo_count": 1606,
+      "about": {
+          "summary": "Off Highway 101, this laid-back hotel in a stone property on the city outskirts is 3 km from the Mummies Museum of Guanajuato and 2 km from the 18th-century, pink stone La Valenciana Church. The airy, simply furnished rooms, some with exposed beams, offer flat-screen TVs and complimentary Wi-Fi. Parking is free. Other amenities include an outdoor pool, a garden and a terrace, in addition to a restaurant that features a wooden ceiling and overlooks the pool. Breakfast is available for a surcharge.",
+          "details": null
+      },
+      "address": "A Dolores Hidalgo 1-Km. 1, San Javier, 36020 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "San Javier",
+      "street_address": "A Dolores Hidalgo 1-Km. 1",
+      "city": "Guanajuato",
+      "zipcode": "36020",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.95,
+              "summary": [
+                  "Some guests noted the beds could be improved",
+                  "Some guests commented the rooms were small",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.4,
+              "summary": [
+                  "Parking available",
+                  "Shopping nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.75,
+              "summary": [
+                  "Guests spoke highly of housekeeping, though some said reception could be improved",
+                  "Guests appreciated the professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b75fd30540721:0x665ae310786db0de",
+      "google_id": "0x842b75fd30540721:0x665ae310786db0de",
+      "place_id": "ChIJIQdUMP11K4QR3rBteBDjWmY",
+      "google_mid": "/g/11s668tx_y",
+      "phone_number": "+524737324711",
+      "name": "Nueve 25 Hotel Boutique",
+      "latitude": 21.0169404,
+      "longitude": -101.2541509,
+      "full_address": "Nueve 25 Hotel Boutique, C. Ponciano Aguilar 69, Colonia Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 21,
+      "rating": 4.8,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://nueve25hotel.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b75fd30540721:0x665ae310786db0de",
+      "cid": "7375456999652045022",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIQdUMP11K4QR3rBteBDjWmY&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "114571989092096748228",
+      "owner_link": "https://maps.google.com/maps/contrib/114571989092096748228",
+      "owner_name": "Nueve 25 Hotel Boutique",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipM-vE6qfaINeZWWKKG5MKn4COTgK26hzsicxXvY",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipM-vE6qfaINeZWWKKG5MKn4COTgK26hzsicxXvY",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipM-vE6qfaINeZWWKKG5MKn4COTgK26hzsicxXvY=w1008-h751-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0168839,
+              "longitude": -101.254171,
+              "type": "photo",
+              "photo_datetime_utc": "2023-04-25T00:00:00.000Z",
+              "photo_timestamp": 1682380800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 18
+      },
+      "photo_count": 263,
+      "about": null,
+      "address": "C. Ponciano Aguilar 69, Colonia Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Colonia Centro",
+      "street_address": "C. Ponciano Aguilar 69",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": null,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b757371c7fdb5:0xea1bef4495787d19",
+      "google_id": "0x842b757371c7fdb5:0xea1bef4495787d19",
+      "place_id": "ChIJtf3HcXN1K4QRGX14lUTvG-o",
+      "google_mid": "/g/11fkm_3t5h",
+      "phone_number": "+524736907447",
+      "name": "Hotel Fusion Antigua Trece",
+      "latitude": 21.0164567,
+      "longitude": -101.2556827,
+      "full_address": "Hotel Fusion Antigua Trece, Calixto 13, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 577,
+      "rating": 4.7,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://antiguatrece.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b757371c7fdb5:0xea1bef4495787d19",
+      "cid": "16869339907090840857",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtf3HcXN1K4QRGX14lUTvG-o&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "107780212715972599513",
+      "owner_link": "https://maps.google.com/maps/contrib/107780212715972599513",
+      "owner_name": "Hotel Fusion Antigua Trece",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNSDmATm17sW0g57BsTDRRrkoYA3xfUWMUjyM8I",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNSDmATm17sW0g57BsTDRRrkoYA3xfUWMUjyM8I",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNSDmATm17sW0g57BsTDRRrkoYA3xfUWMUjyM8I=w5960-h3984-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.016391700000003,
+              "longitude": -101.2557061,
+              "type": "photo",
+              "photo_datetime_utc": "2019-09-05T00:00:00.000Z",
+              "photo_timestamp": 1567641600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 16,
+          "2": 5,
+          "3": 10,
+          "4": 48,
+          "5": 498
+      },
+      "photo_count": 1165,
+      "about": {
+          "summary": "This polished hotel in a 19th-century building is a 4-minute walk from the art exhibits at the Museo Casa Diego Rivera. It's 10 minutes on foot from the Monument to El Pípila, a hilltop statue with panoramic views, and 1 km from Highway 110. The colorful, eclectic rooms feature flat-screen TVs, Wi-Fi access and coffeemaking facilities. Some upgraded rooms add minibars, and terraces offering whirlpool tubs. A rooftop terrace overlooks the city. There’s also an outdoor pool. Breakfast and parking are available.",
+          "details": null
+      },
+      "address": "Calixto 13, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Calixto 13",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.5,
+              "summary": [
+                  "Rooms had views",
+                  "Guests liked the clean rooms, though some commented they were small",
+                  "Guests liked the comfortable beds"
+              ]
+          },
+          "Location": {
+              "score": 3.8
+          },
+          "Service & facilities": {
+              "score": 4,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b9c7e21d5cbbd:0xe573ae2dac8f64",
+      "google_id": "0x842b9c7e21d5cbbd:0xe573ae2dac8f64",
+      "place_id": "ChIJvcvVIX6cK4QRZI-sLa5z5QA",
+      "google_mid": "/g/1tf60m17",
+      "phone_number": "+524737329725",
+      "name": "Hotel Luna",
+      "latitude": 21.0161396,
+      "longitude": -101.25293169999999,
+      "full_address": "Hotel Luna, Jdn. de la Unión 6, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 216,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.travelbymexico.com/guan/hotelluna",
+      "verified": false,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b9c7e21d5cbbd:0xe573ae2dac8f64",
+      "cid": "64584961594527588",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvcvVIX6cK4QRZI-sLa5z5QA&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "116860246971307457530",
+      "owner_link": "https://maps.google.com/maps/contrib/116860246971307457530",
+      "owner_name": "Hotel Luna",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://cdn.worldota.net/t/1024x768/content/67/dd/67ddc897b4ca3565630b28ca9b3531b15db4022e.jpeg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLvDBtirV6Z-Nu7qbI2wfytmUSE8yTsor_3UzRlMEyJ9swHG58NIzZVH249CnnZf9qaN0S4cHxXTj-vP5MrL3ChGfpvgl-eb453P7SpMONQHv1wfaBYUgtJ4ZELSkFuIKXW42HVKbLLyxpy9N-y1kdSrQZGrz3QiYS9A15egopTtjhthSBm9rBJ",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLvDBtirV6Z-Nu7qbI2wfytmUSE8yTsor_3UzRlMEyJ9swHG58NIzZVH249CnnZf9qaN0S4cHxXTj-vP5MrL3ChGfpvgl-eb453P7SpMONQHv1wfaBYUgtJ4ZELSkFuIKXW42HVKbLLyxpy9N-y1kdSrQZGrz3QiYS9A15egopTtjhthSBm9rBJ=w1024-h768-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0160159,
+              "longitude": -101.2528619,
+              "type": "photo",
+              "photo_datetime_utc": "2023-04-30T00:00:00.000Z",
+              "photo_timestamp": 1682812800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 10,
+          "2": 11,
+          "3": 14,
+          "4": 51,
+          "5": 130
+      },
+      "photo_count": 401,
+      "about": {
+          "summary": "Set in a 19th-century building opposite the Jardín de la Unión, this laid-back hotel is a 3-minute walk from Museo del Pueblo de Guanajuato. Relaxed rooms and suites come with Wi-Fi access and TVs. Some feature ornate furnishings and chandeliers. Amenities include an informal restaurant, a bar, and terraces overlooking the city. Breakfast is available.",
+          "details": null
+      },
+      "address": "Jdn. de la Unión 6, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Jdn. de la Unión 6",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.15
+          },
+          "Location": {
+              "score": 1.15
+          }
+      }
+  },
+  {
+      "business_id": "0x842c7fc0798ab48d:0xa5432494dbc5c77a",
+      "google_id": "0x842c7fc0798ab48d:0xa5432494dbc5c77a",
+      "place_id": "ChIJjbSKecB_LIQResfF25QkQ6U",
+      "google_mid": "/g/1tfqlq48",
+      "phone_number": "+524737326062",
+      "name": "Mesón Cuévano",
+      "latitude": 21.0165428,
+      "longitude": -101.2551251,
+      "full_address": "Mesón Cuévano, De La Barranca 8, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 587,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://mesoncuevano.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842c7fc0798ab48d:0xa5432494dbc5c77a",
+      "cid": "11908402061458655098",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjbSKecB_LIQResfF25QkQ6U&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "111244281843383279070",
+      "owner_link": "https://maps.google.com/maps/contrib/111244281843383279070",
+      "owner_name": "Mesón Cuévano",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNvW_8J03XKQGDZZdjEAmQKewQilOQeoRzepaHu",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNvW_8J03XKQGDZZdjEAmQKewQilOQeoRzepaHu",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNvW_8J03XKQGDZZdjEAmQKewQilOQeoRzepaHu=w2000-h1333-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0165579,
+              "longitude": -101.2551507,
+              "type": "photo",
+              "photo_datetime_utc": "2018-09-26T00:00:00.000Z",
+              "photo_timestamp": 1537920000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 9,
+          "2": 15,
+          "3": 54,
+          "4": 150,
+          "5": 359
+      },
+      "photo_count": 510,
+      "about": {
+          "summary": "This quaint hotel is 2 km from both the Alhóndiga de Granaditas art museum, and the Museo De Las Momias de Guanajuato. It's 3 km from the Monumento al Pípila. The cozy rooms feature tile floors, exposed brick walls and Wi-Fi, as well as fans and sitting areas; some add balconies. There's no air-conditioning. Breakfast is available. Other amenities include a lounge and a courtyard.",
+          "details": null
+      },
+      "address": "De La Barranca 8, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "De La Barranca 8",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.95,
+              "summary": [
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Some guests mentioned the bathrooms could be improved",
+                  "Some guests commented the rooms were small & maintenance could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.7,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.75,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740874eddd3d:0x8ba0f08abb49ddc1",
+      "google_id": "0x842b740874eddd3d:0x8ba0f08abb49ddc1",
+      "place_id": "ChIJPd3tdAh0K4QRwd1Ju4rwoIs",
+      "google_mid": "/g/11b62pjsll",
+      "phone_number": "+524737320555",
+      "name": "Hotel de la Paz",
+      "latitude": 21.016958499999998,
+      "longitude": -101.2537845,
+      "full_address": "Hotel de la Paz, Del Estudiante 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 298,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hoteldelapaz.com.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740874eddd3d:0x8ba0f08abb49ddc1",
+      "cid": "10061306046184021441",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPd3tdAh0K4QRwd1Ju4rwoIs&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "100278714468207871856",
+      "owner_link": "https://maps.google.com/maps/contrib/100278714468207871856",
+      "owner_name": "Hotel de la Paz",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOskptxTg3zhCBSpZqe7qGEsw46mQIFwhhEPAxy",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOskptxTg3zhCBSpZqe7qGEsw46mQIFwhhEPAxy",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOskptxTg3zhCBSpZqe7qGEsw46mQIFwhhEPAxy=w6720-h4480-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0169747,
+              "longitude": -101.2538314,
+              "type": "photo",
+              "photo_datetime_utc": "2020-02-10T00:00:00.000Z",
+              "photo_timestamp": 1581292800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 16,
+          "2": 5,
+          "3": 13,
+          "4": 67,
+          "5": 197
+      },
+      "photo_count": 689,
+      "about": {
+          "summary": "On a bustling pedestrian street between Universidad de Guanajuato and Plaza de Paz, this unassuming hotel with traditional stucco and wood construction is a 6-minute walk from history exhibits at Alhóndiga de Granaditas, and 3 km from the Museo de las Momias de Guanajuato. Cozy rooms with tile floors and warm decor feature flat-screen TVs, Wi-Fi and en suite bathrooms; some overlook the plaza and/or have balconies. Air conditioning is not provided, but rooms have ceiling fans. There's a terrace. Breakfast is available.",
+          "details": null
+      },
+      "address": "Del Estudiante 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Del Estudiante 1",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.55,
+              "summary": [
+                  "Rooms had views",
+                  "Guests liked the clean rooms, though some commented maintenance could be improved",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.2,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.15,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b73f921897baf:0xa7bb2c49fd3156b5",
+      "google_id": "0x842b73f921897baf:0xa7bb2c49fd3156b5",
+      "place_id": "ChIJr3uJIflzK4QRtVYx_Uksu6c",
+      "google_mid": "/g/11b6hhbsh4",
+      "phone_number": "+524737341250",
+      "name": "HOTEL 1988 COLONIAL",
+      "latitude": 21.016828999999998,
+      "longitude": -101.2455785,
+      "full_address": "HOTEL 1988 COLONIAL, Tramo Alameda-preparatoria, Panorámica 9, Alameda, 36003 Guanajuato, Gto., Mexico",
+      "review_count": 1788,
+      "rating": 3.8,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": null,
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73f921897baf:0xa7bb2c49fd3156b5",
+      "cid": "12086302721270961845",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJr3uJIflzK4QRtVYx_Uksu6c&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "100222054152673606734",
+      "owner_link": "https://maps.google.com/maps/contrib/100222054152673606734",
+      "owner_name": "HOTEL 1988 COLONIAL",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPgPRs4GCbPlt4jyUvIcqFlMNE83eygJ6qJDeFg",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPgPRs4GCbPlt4jyUvIcqFlMNE83eygJ6qJDeFg",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPgPRs4GCbPlt4jyUvIcqFlMNE83eygJ6qJDeFg=w5749-h3833-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.016764,
+              "longitude": -101.2456648,
+              "type": "photo",
+              "photo_datetime_utc": "2021-06-20T00:00:00.000Z",
+              "photo_timestamp": 1624147200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 171,
+          "2": 115,
+          "3": 288,
+          "4": 459,
+          "5": 755
+      },
+      "photo_count": 2196,
+      "about": {
+          "summary": "Overlooking the historic city center, this unpretentious hotel in a bright, geometric building is a 15-minute walk from both Teatro Juárez and Jardín de la Unión plaza. Straightforward rooms come with city views and TVs. Room service is available. There's a laid-back restaurant, and a rooftop sundeck with an outdoor pool. Other amenities include a game room, a playground, and a lobby lounge with a fireplace. Breakfast is also offered.",
+          "details": null
+      },
+      "address": "Tramo Alameda-preparatoria, Panorámica 9, Alameda, 36003 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Alameda",
+      "street_address": "Tramo Alameda-preparatoria, Panorámica 9",
+      "city": "Guanajuato",
+      "zipcode": "36003",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b7407f235374d:0x3a193a1157c52b46",
+      "google_id": "0x842b7407f235374d:0x3a193a1157c52b46",
+      "place_id": "ChIJTTc18gd0K4QRRivFVxE6GTo",
+      "google_mid": "/g/1td7cgkf",
+      "phone_number": "+524737321179",
+      "name": "Hosteria Del Frayle",
+      "latitude": 21.015169099999998,
+      "longitude": -101.2523422,
+      "full_address": "Hosteria Del Frayle, De Sopena 3, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 628,
+      "rating": 4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://hotelhosteriadelfrayle.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407f235374d:0x3a193a1157c52b46",
+      "cid": "4186441174778981190",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTTc18gd0K4QRRivFVxE6GTo&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "105495268729727981061",
+      "owner_link": "https://maps.google.com/maps/contrib/105495268729727981061",
+      "owner_name": "Hosteria Del Frayle",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOV87SEDR7gIr8XTpY7j3toQaXD_xxCtPo7Xxg",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOV87SEDR7gIr8XTpY7j3toQaXD_xxCtPo7Xxg",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOV87SEDR7gIr8XTpY7j3toQaXD_xxCtPo7Xxg=w5980-h3987-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.015197399999998,
+              "longitude": -101.2523173,
+              "type": "photo",
+              "photo_datetime_utc": "2019-12-25T00:00:00.000Z",
+              "photo_timestamp": 1577232000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 39,
+          "2": 33,
+          "3": 82,
+          "4": 185,
+          "5": 289
+      },
+      "photo_count": 799,
+      "about": {
+          "summary": "This unpretentious hotel in an elegant 17th-century building is 2 minutes on foot from the ornate Teatro Juárez and a 10-minute walk from the Alhóndiga de Granaditas art and history museum. The conservatively decorated rooms, some featuring exposed beams or brick ceilings, come with Wi-Fi access, satellite TV and safes. Some have balconies. Amenities include a business center, a shared computer, and a lobby coffee service (limited hours).",
+          "details": null
+      },
+      "address": "De Sopena 3, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "De Sopena 3",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.85,
+              "summary": [
+                  "Some guests commented cleanliness & maintenance could be improved",
+                  "Some guests mentioned bathroom cleanliness could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.4,
+              "summary": [
+                  "Near the city center; sightseeing, restaurants & bars nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.75,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Some guests said housekeeping could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408bfffffff:0x326d8fd5ae0d717c",
+      "google_id": "0x842b7408bfffffff:0x326d8fd5ae0d717c",
+      "place_id": "ChIJ____vwh0K4QRfHENrtWPbTI",
+      "google_mid": "/g/11b8tn6nh5",
+      "phone_number": "+524737322556",
+      "name": "Hotel Chocolate",
+      "latitude": 21.0147658,
+      "longitude": -101.24844619999999,
+      "full_address": "Hotel Chocolate, Temescuitate 1-B, TEMEZCUITATE, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 592,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": null,
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408bfffffff:0x326d8fd5ae0d717c",
+      "cid": "3633718622268780924",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ____vwh0K4QRfHENrtWPbTI&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "111077497450970732694",
+      "owner_link": "https://maps.google.com/maps/contrib/111077497450970732694",
+      "owner_name": "Hotel Chocolate",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/34000000/33250000/33242400/33242309/d3638a83_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJCDz5Hlh1TlmIQqik4wom59Use4OreIN7H3fEMHngcNq3jHd110F2dSzl53ttYVQaawP28X2cEL_P8Ao1ZSZ9icOhnRjf0fEFiGkU_MPmWPkEppynv8kj5JJfiNY3GCEM221pOmuQV5b-DVsfs0YMXjWSWjk1l8ejy9z0DV6wnDLiFOzrgvs0",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJCDz5Hlh1TlmIQqik4wom59Use4OreIN7H3fEMHngcNq3jHd110F2dSzl53ttYVQaawP28X2cEL_P8Ao1ZSZ9icOhnRjf0fEFiGkU_MPmWPkEppynv8kj5JJfiNY3GCEM221pOmuQV5b-DVsfs0YMXjWSWjk1l8ejy9z0DV6wnDLiFOzrgvs0=w1000-h750-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0147333,
+              "longitude": -101.2484207,
+              "type": "photo",
+              "photo_datetime_utc": "2023-06-18T00:00:00.000Z",
+              "photo_timestamp": 1687046400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 36,
+          "2": 26,
+          "3": 74,
+          "4": 149,
+          "5": 307
+      },
+      "photo_count": 1274,
+      "about": {
+          "summary": "This laid-back hotel is a 9-minute walk from Museo Iconográfico del Quijote, a 10-minute walk from the 19th-century Teatro Juarez and 4 km from Highway 110. Relaxed rooms with wooden furniture and colorful linens include free Wi-Fi, flat-screen TVs, and tea and coffeemaking equipment. Suites add living areas or dining spaces. Some units have air-conditioning and/or balconies or terraces with city views. Breakfast is available. There is a casual restaurant with exposed-beams.",
+          "details": null
+      },
+      "address": "Temescuitate 1-B, TEMEZCUITATE, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "TEMEZCUITATE",
+      "street_address": "Temescuitate 1-B",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842cbaa2aa2996bd:0x152a2a2b6cec687a",
+      "google_id": "0x842cbaa2aa2996bd:0x152a2a2b6cec687a",
+      "place_id": "ChIJvZYpqqK6LIQRemjsbCsqKhU",
+      "google_mid": "/g/11b6dhtzjl",
+      "phone_number": "+524737312182",
+      "name": "Hotel Villa María Cristina",
+      "latitude": 21.0043985,
+      "longitude": -101.24654149999999,
+      "full_address": "Hotel Villa María Cristina, Paseo de la, Presa de La Olla 76, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 658,
+      "rating": 4.7,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.vmchotel.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842cbaa2aa2996bd:0x152a2a2b6cec687a",
+      "cid": "1525077789817727098",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvZYpqqK6LIQRemjsbCsqKhU&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "109642906580448904886",
+      "owner_link": "https://maps.google.com/maps/contrib/109642906580448904886",
+      "owner_name": "Hotel Villa María Cristina",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Restaurant",
+          "Spa"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPPvHk7uVffCutfyiMvwpd7ZXLvByWrP-03NiMZ",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPPvHk7uVffCutfyiMvwpd7ZXLvByWrP-03NiMZ",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPPvHk7uVffCutfyiMvwpd7ZXLvByWrP-03NiMZ=w760-h400-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0042577,
+              "longitude": -101.2465464,
+              "type": "photo",
+              "photo_datetime_utc": "2021-06-29T00:00:00.000Z",
+              "photo_timestamp": 1624924800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 17,
+          "2": 14,
+          "3": 24,
+          "4": 72,
+          "5": 531
+      },
+      "photo_count": 1312,
+      "about": {
+          "summary": "Set on a tree-lined street, this upscale hotel in a grand, Colonial-inspired mansion with an elegant courtyard is 2 km from the Museo Iconográfico del Quijote. Refined, traditionally furnished rooms offer free Wi-Fi, flat-screen TVs and Bang & Olufsen stereos, as well as marble bathrooms with whirlpool tubs or steam baths. Upgraded rooms and suites add terraces with hot tubs, and/or living areas. Room service is available. Breakfast and parking are complimentary. There's a genteel restaurant with a fireplace, as well as a bar. Other amenities include a gym, an outdoor pool, and a rooftop terrace with a hot tub, plus a spa with an indoor pool.",
+          "details": null
+      },
+      "address": "Paseo de la, Presa de La Olla 76, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Barrio de la Presa",
+      "street_address": "Paseo de la, Presa de La Olla 76",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.85,
+              "summary": [
+                  "Guests liked the large, clean rooms",
+                  "Rooms had views",
+                  "Guests appreciated the bathrooms"
+              ]
+          },
+          "Location": {
+              "score": 3.75
+          },
+          "Service & facilities": {
+              "score": 4.5,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests enjoyed the pool"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407af58ac07:0xa49eea15c577648d",
+      "google_id": "0x842b7407af58ac07:0xa49eea15c577648d",
+      "place_id": "ChIJB6xYrwd0K4QRjWR3xRXqnqQ",
+      "google_mid": "/g/1vxvj5ch",
+      "phone_number": "+524737322576",
+      "name": "Balcon Del Cielo",
+      "latitude": 21.0143363,
+      "longitude": -101.2540057,
+      "full_address": "Balcon Del Cielo, Carretera Panoramica Pipila S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 349,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelbalcondelcielo.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407af58ac07:0xa49eea15c577648d",
+      "cid": "11862175847768614029",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB6xYrwd0K4QRjWR3xRXqnqQ&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "117445500994205488061",
+      "owner_link": "https://maps.google.com/maps/contrib/117445500994205488061",
+      "owner_name": "Balcon Del Cielo",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNuXUZ_a-RXWQW3SJ2JhcFAHhzzgl8I6sT6xmRh",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNuXUZ_a-RXWQW3SJ2JhcFAHhzzgl8I6sT6xmRh",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNuXUZ_a-RXWQW3SJ2JhcFAHhzzgl8I6sT6xmRh=w384-h256-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0143363,
+              "longitude": -101.2540057,
+              "type": "photo",
+              "photo_datetime_utc": "2015-03-10T00:00:00.000Z",
+              "photo_timestamp": 1425945600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 11,
+          "2": 5,
+          "3": 18,
+          "4": 67,
+          "5": 248
+      },
+      "photo_count": 591,
+      "about": {
+          "summary": "Set next to a leafy area, this laid-back hotel is 10 minutes' walk from cafes along Jardín de la Unión plaza and 4 km from the popular Museum of the Mummies of Guanajuato. It's 3 km from Highway 110. The 10 unpretentious rooms provide Wi-Fi access, flat-screen TVs and safes. Some have windows, and/or terraces or balconies with city views. Upgraded rooms sleep 3 or 4. Children age 4 and under stay at no extra cost with a parent. There's a casual lobby TV lounge.",
+          "details": null
+      },
+      "address": "Carretera Panoramica Pipila S/N, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Carretera Panoramica Pipila S/N",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.8,
+              "summary": [
+                  "Rooms had views",
+                  "Guests liked the large, clean rooms, though some said they were dated & maintenance could be improved",
+                  "Some guests noted the beds could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.3,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.05,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740edba0d915:0x7e69b17d3b49395b",
+      "google_id": "0x842b740edba0d915:0x7e69b17d3b49395b",
+      "place_id": "ChIJFdmg2w50K4QRWzlJO32xaX4",
+      "google_mid": "/g/1tdvkhl6",
+      "phone_number": "+524737320525",
+      "name": "HOTEL ALHÓNDIGA",
+      "latitude": 21.0198364,
+      "longitude": -101.25881679999999,
+      "full_address": "HOTEL ALHÓNDIGA, Insurgencia 49, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 626,
+      "rating": 4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.hotelalhondiga.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740edba0d915:0x7e69b17d3b49395b",
+      "cid": "9109006872757221723",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFdmg2w50K4QRWzlJO32xaX4&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "101190262498538872665",
+      "owner_link": "https://maps.google.com/maps/contrib/101190262498538872665",
+      "owner_name": "HOTEL ALHÓNDIGA",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNEi52IY6oddcr0ABh3MXRm1XMXRsP73W-5Aby8",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNEi52IY6oddcr0ABh3MXRm1XMXRsP73W-5Aby8",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNEi52IY6oddcr0ABh3MXRm1XMXRsP73W-5Aby8=w4000-h2250-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0197827,
+              "longitude": -101.2588797,
+              "type": "photo",
+              "photo_datetime_utc": "2020-08-07T00:00:00.000Z",
+              "photo_timestamp": 1596758400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 43,
+          "2": 40,
+          "3": 95,
+          "4": 164,
+          "5": 284
+      },
+      "photo_count": 345,
+      "about": {
+          "summary": "Near shops and businesses, this functional hotel is a 3-minute walk from Alhóndiga de Granaditas, an art and history museum set in a granary-turned-fortress, and less than 1 km from Highway 110. Featuring simple wood furnishings, the straightforward rooms come with cable TV and Wi-Fi access. Upgraded rooms sleep up to 4 people. Complimentary tea and coffee is served in a down-to-earth lobby lounge. Limited parking is available.",
+          "details": null
+      },
+      "address": "Insurgencia 49, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Insurgencia 49",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.6,
+              "summary": [
+                  "Some guests noted the rooms could be quieter"
+              ]
+          },
+          "Location": {
+              "score": 3.55
+          },
+          "Service & facilities": {
+              "score": 4.7,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740e56367135:0xb7e16a03c545f267",
+      "google_id": "0x842b740e56367135:0xb7e16a03c545f267",
+      "place_id": "ChIJNXE2Vg50K4QRZ_JFxQNq4bc",
+      "google_mid": "/g/1tfbt63w",
+      "phone_number": "+524737320350",
+      "name": "Hotel Hacienda de Cobos",
+      "latitude": 21.0200916,
+      "longitude": -101.2603942,
+      "full_address": "Hotel Hacienda de Cobos, Miguel Hidalgo 3, Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 1026,
+      "rating": 3.8,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.haciendadecobos.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740e56367135:0xb7e16a03c545f267",
+      "cid": "13249988143127851623",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNXE2Vg50K4QRZ_JFxQNq4bc&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "104309543176794377700",
+      "owner_link": "https://maps.google.com/maps/contrib/104309543176794377700",
+      "owner_name": "Hotel Hacienda de Cobos",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipND25UQ_vPzyCAS4xX1sCgJV82AiPHS_pvS0Hc",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipND25UQ_vPzyCAS4xX1sCgJV82AiPHS_pvS0Hc",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipND25UQ_vPzyCAS4xX1sCgJV82AiPHS_pvS0Hc=w4000-h3000-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.020021264477098,
+              "longitude": -101.26099942363624,
+              "type": "photo",
+              "photo_datetime_utc": "2023-01-30T00:00:00.000Z",
+              "photo_timestamp": 1675036800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 90,
+          "2": 68,
+          "3": 179,
+          "4": 277,
+          "5": 412
+      },
+      "photo_count": 947,
+      "about": {
+          "summary": "Set in a colorful Colonial-style building with stone accents, this casual hotel is a 6-minute walk from the Alhóndiga de Granaditas art museum and 30 km from Del Bajío International Airport. Straightforward rooms with earth tones and a vintage vibe feature cable TV; some add balconies, vaulted ceilings and/or vibrant artwork. Wi-Fi is available. Continental breakfast is available. Other amenities include a courtyard outdoor pool and a down-to-earth restaurant/bar. Parking and an airport shuttle can be arranged.",
+          "details": null
+      },
+      "address": "Miguel Hidalgo 3, Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Centro",
+      "street_address": "Miguel Hidalgo 3",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b73f811bea513:0x9e36193b5d9a7a97",
+      "google_id": "0x842b73f811bea513:0x9e36193b5d9a7a97",
+      "place_id": "ChIJE6W-EfhzK4QRl3qaXTsZNp4",
+      "google_mid": "/g/1tflsbgs",
+      "phone_number": "+524731219386",
+      "name": "Casa de Pita",
+      "latitude": 21.015754599999998,
+      "longitude": -101.25135949999999,
+      "full_address": "Casa de Pita, De La Cabecita 26, Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 276,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://casadepita.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73f811bea513:0x9e36193b5d9a7a97",
+      "cid": "11400327249499159191",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE6W-EfhzK4QRl3qaXTsZNp4&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "104457701618182374771",
+      "owner_link": "https://maps.google.com/maps/contrib/104457701618182374771",
+      "owner_name": "Casa de Pita",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Inn",
+      "subtypes": [
+          "Inn"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipMZ9uJPWFL8McuT9Scm7Mn6O7WjCumeObtGkycB",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMZ9uJPWFL8McuT9Scm7Mn6O7WjCumeObtGkycB",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMZ9uJPWFL8McuT9Scm7Mn6O7WjCumeObtGkycB=w1087-h723-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.015821499999998,
+              "longitude": -101.2515145,
+              "type": "photo",
+              "photo_datetime_utc": "2021-03-27T00:00:00.000Z",
+              "photo_timestamp": 1616803200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 22,
+          "2": 5,
+          "3": 15,
+          "4": 41,
+          "5": 193
+      },
+      "photo_count": 350,
+      "about": {
+          "summary": "Set in a colorful building on a narrow cobblestone street, this quaint bed-and-breakfast is a 7-minute walk from art at the Museo Casa Diego Rivera and a kilometer from Mexican Federal Highway 110. Warmly decorated rooms feature complimentary Wi-Fi, and shared or private bathrooms; some offer decorative tiles, carved wood furnishings, bunk beds, kitchens, TVs and/or sleeping lofts. There’s a furnished garden terrace.",
+          "details": null
+      },
+      "address": "De La Cabecita 26, Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Centro",
+      "street_address": "De La Cabecita 26",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b740e52e5e7b7:0x1a8abd7c708776bb",
+      "google_id": "0x842b740e52e5e7b7:0x1a8abd7c708776bb",
+      "place_id": "ChIJt-flUg50K4QRu3aHcHy9iho",
+      "google_mid": "/g/1tgnr_2y",
+      "phone_number": "+524737340815",
+      "name": "Hotel Casa Virreyes",
+      "latitude": 21.0168037,
+      "longitude": -101.25339509999999,
+      "full_address": "Hotel Casa Virreyes, Calle Ponciano Aguilar, Pl. De La Paz 49 y 51, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 280,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelcasavirreyes.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740e52e5e7b7:0x1a8abd7c708776bb",
+      "cid": "1912549333933717179",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt-flUg50K4QRu3aHcHy9iho&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "110138768447968010874",
+      "owner_link": "https://maps.google.com/maps/contrib/110138768447968010874",
+      "owner_name": "Hotel Casa Virreyes",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://cdn.worldota.net/t/1024x768/content/c9/6e/c96ed14b47a4e69a6134fdb0174a902794afda97.jpeg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLYut2PlwMaECpmw9JwQR2xqD5xadFB6LpnhE2ju_1g1MrF9qOsuN7cTpRb1sn05x4ZDFpApi3LBaVm97WXL_oL6RyKYcNH7dfoze4alwA1ftzf5BisoG2xQgHH1wk9CkDk055qwJfIhCCEr5EpzfGIQyuja4nnHy8OHMgNWYLMjaIA5RkeyBHa",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLYut2PlwMaECpmw9JwQR2xqD5xadFB6LpnhE2ju_1g1MrF9qOsuN7cTpRb1sn05x4ZDFpApi3LBaVm97WXL_oL6RyKYcNH7dfoze4alwA1ftzf5BisoG2xQgHH1wk9CkDk055qwJfIhCCEr5EpzfGIQyuja4nnHy8OHMgNWYLMjaIA5RkeyBHa=w1024-h768-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0167569,
+              "longitude": -101.25339129999999,
+              "type": "photo",
+              "photo_datetime_utc": "2022-08-16T00:00:00.000Z",
+              "photo_timestamp": 1660608000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 9,
+          "2": 9,
+          "3": 17,
+          "4": 81,
+          "5": 164
+      },
+      "photo_count": 449,
+      "about": {
+          "summary": "In a 17th-century house on a narrow cobblestone street, this relaxed hotel lies a 3-minute walk from Museo Casa Diego Rivera, a 5-minute walk from Callejón Del Beso and an 8-minute walk from Festival Internacional Cervantino. The laid-back suites have free Wi-Fi, flat-screen TVs, coffeemakers and safes, as well as sitting areas with sofas. Upgraded suites add balconies. Continental breakfast is served for a fee in a casual dining area. There's also a lobby lounge.",
+          "details": null
+      },
+      "address": "Calle Ponciano Aguilar, Pl. De La Paz 49 y 51, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Calle Ponciano Aguilar, Pl. De La Paz 49 y 51",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.1,
+              "summary": [
+                  "Guests liked the large, clean rooms, though some commented maintenance could be improved",
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.25,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.05,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842c8079681c499f:0xab5d9139192a4dd1",
+      "google_id": "0x842c8079681c499f:0xab5d9139192a4dd1",
+      "place_id": "ChIJn0kcaHmALIQR0U0qGTmRXas",
+      "google_mid": "/g/11fxzzydtk",
+      "phone_number": "+524737341116",
+      "name": "Hotel El Beso De Calixto",
+      "latitude": 21.0166407,
+      "longitude": -101.2558789,
+      "full_address": "Hotel El Beso De Calixto, Yuriria No 8-int H, centro historico, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 60,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": null,
+      "verified": false,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842c8079681c499f:0xab5d9139192a4dd1",
+      "cid": "12348185427741134289",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn0kcaHmALIQR0U0qGTmRXas&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "117656089198054915487",
+      "owner_link": "https://maps.google.com/maps/contrib/117656089198054915487",
+      "owner_name": "Hotel El Beso De Calixto",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/39000000/38820000/38812200/38812120/140d9b3c_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIzr_XD9xUKO9Q4AwM_UwZ28TGoqO8QnxDHbGA0BLaS-1CVLkDr9MlNB-e3U9i3PH8SB7GyEkBbcQe2twt5zzU7Uq7jAahCsObv8vQOQjf7uKh8qi2MFh0bKvTJPg3Lp-wSOpKVIthpaBUlE1xyTLDBk-EGIJNQ7CjW69GJIiJwmssrx9uRK-b2",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIzr_XD9xUKO9Q4AwM_UwZ28TGoqO8QnxDHbGA0BLaS-1CVLkDr9MlNB-e3U9i3PH8SB7GyEkBbcQe2twt5zzU7Uq7jAahCsObv8vQOQjf7uKh8qi2MFh0bKvTJPg3Lp-wSOpKVIthpaBUlE1xyTLDBk-EGIJNQ7CjW69GJIiJwmssrx9uRK-b2=w1000-h750-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0166407,
+              "longitude": -101.2558789,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-12T00:00:00.000Z",
+              "photo_timestamp": 1678579200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 2,
+          "2": 1,
+          "3": 2,
+          "4": 17,
+          "5": 38
+      },
+      "photo_count": 28,
+      "about": {
+          "summary": "In the historical center, this unpretentious hotel is a minute's walk from Callejón del Beso, a landmark known as The Alley Of The Kiss, 6 minutes' walk from the grand Juárez Theater and 29 km from Guanajuato International Airport. The simply furnished rooms provide safes and mosquito nets, as well as complimentary Wi-Fi and flat-screen TVs. There's no air conditioning.",
+          "details": null
+      },
+      "address": "Yuriria No 8-int H, centro historico, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "centro historico",
+      "street_address": "Yuriria No 8-int H",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b73ff8d8ed3fd:0xc883b6c017d3b44c",
+      "google_id": "0x842b73ff8d8ed3fd:0xc883b6c017d3b44c",
+      "place_id": "ChIJ_dOOjf9zK4QRTLTTF8C2g8g",
+      "google_mid": "/g/11hbpj0y0c",
+      "phone_number": "+524731067596",
+      "name": "HOTEL PASEO DE LA PRESA",
+      "latitude": 21.0071537,
+      "longitude": -101.2516376,
+      "full_address": "HOTEL PASEO DE LA PRESA, Carretera panorámica Pípila-ISSSTE S/N, P.º de La Presa, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 84,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://paseodelapresagto.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73ff8d8ed3fd:0xc883b6c017d3b44c",
+      "cid": "14448592965684409420",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_dOOjf9zK4QRTLTTF8C2g8g&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "115038451994002859776",
+      "owner_link": "https://maps.google.com/maps/contrib/115038451994002859776",
+      "owner_name": "HOTEL PASEO DE LA PRESA",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNLwPYVKl7mMDhZHF64J-Wd-V3SZIOBftTGRcTh",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNLwPYVKl7mMDhZHF64J-Wd-V3SZIOBftTGRcTh",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNLwPYVKl7mMDhZHF64J-Wd-V3SZIOBftTGRcTh=w1600-h1200-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0071464,
+              "longitude": -101.2517123,
+              "type": "photo",
+              "photo_datetime_utc": "2022-09-16T00:00:00.000Z",
+              "photo_timestamp": 1663286400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 5,
+          "2": 0,
+          "3": 9,
+          "4": 20,
+          "5": 50
+      },
+      "photo_count": 74,
+      "about": null,
+      "address": "Carretera panorámica Pípila-ISSSTE S/N, P.º de La Presa, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Barrio de la Presa",
+      "street_address": "Carretera panorámica Pípila-ISSSTE S/N, P.º de La Presa",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": null,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b7407e8372467:0x81963f4ac5c6dcfb",
+      "google_id": "0x842b7407e8372467:0x81963f4ac5c6dcfb",
+      "place_id": "ChIJZyQ36Ad0K4QR-9zGxUo_loE",
+      "google_mid": "/g/11b6210jxl",
+      "phone_number": "+524734540262",
+      "name": "Mansión Von Humboldt",
+      "latitude": 21.0158432,
+      "longitude": -101.25372589999999,
+      "full_address": "Mansión Von Humboldt, De Los Arcos 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 153,
+      "rating": 3.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://rmhoteles.com.mx/hotel-mansion-vonhumboldt",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407e8372467:0x81963f4ac5c6dcfb",
+      "cid": "9337720467777576187",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZyQ36Ad0K4QR-9zGxUo_loE&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113681476272950062559",
+      "owner_link": "https://maps.google.com/maps/contrib/113681476272950062559",
+      "owner_name": "Mansión Von Humboldt",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipMl270BZtzra5zFhIGRg_iPL2qPSMQDyjAl9wWT",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMl270BZtzra5zFhIGRg_iPL2qPSMQDyjAl9wWT",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMl270BZtzra5zFhIGRg_iPL2qPSMQDyjAl9wWT=w5184-h3456-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.015871699999998,
+              "longitude": -101.253734,
+              "type": "photo",
+              "photo_datetime_utc": "2020-07-25T00:00:00.000Z",
+              "photo_timestamp": 1595635200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 27,
+          "2": 9,
+          "3": 30,
+          "4": 30,
+          "5": 57
+      },
+      "photo_count": 282,
+      "about": null,
+      "address": "De Los Arcos 1, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "De Los Arcos 1",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.45,
+              "summary": [
+                  "Some guests said the rooms were small, and that cleanliness & maintenance could be improved",
+                  "Some guests said the bathrooms were small",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.45
+          },
+          "Service & facilities": {
+              "score": 3.7,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408adbcb067:0xa04e1b8d4aadbf6d",
+      "google_id": "0x842b7408adbcb067:0xa04e1b8d4aadbf6d",
+      "place_id": "ChIJZ7C8rQh0K4QRbb-tSo0bTqA",
+      "google_mid": "/g/11swcscxdn",
+      "phone_number": "+524731216155",
+      "name": "Hotel Corazón Mexicano",
+      "latitude": 21.0170261,
+      "longitude": -101.2577697,
+      "full_address": "Hotel Corazón Mexicano, Rosarito 6, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 314,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.corazonmexicanogto.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408adbcb067:0xa04e1b8d4aadbf6d",
+      "cid": "11551200387909140333",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ7C8rQh0K4QRbb-tSo0bTqA&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "115115599169547890063",
+      "owner_link": "https://maps.google.com/maps/contrib/115115599169547890063",
+      "owner_name": "Hotel Corazón Mexicano",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOxmWv4BIzzOCL_s6DBbyBhWYf4rNDo9DpCnzx3",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOxmWv4BIzzOCL_s6DBbyBhWYf4rNDo9DpCnzx3",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOxmWv4BIzzOCL_s6DBbyBhWYf4rNDo9DpCnzx3=w6000-h4000-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0170364,
+              "longitude": -101.2577606,
+              "type": "photo",
+              "photo_datetime_utc": "2020-05-09T00:00:00.000Z",
+              "photo_timestamp": 1588982400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 11,
+          "2": 9,
+          "3": 17,
+          "4": 48,
+          "5": 229
+      },
+      "photo_count": 495,
+      "about": {
+          "summary": "Informal hotel offering streamlined rooms & chic, airy suites, some offering terraces & city views.",
+          "details": null
+      },
+      "address": "Rosarito 6, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Rosarito 6",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b74089c8a8b83:0xc96524b598fc0fd9",
+      "google_id": "0x842b74089c8a8b83:0xc96524b598fc0fd9",
+      "place_id": "ChIJg4uKnAh0K4QR2Q_8mLUkZck",
+      "google_mid": "/g/1td5m09b",
+      "phone_number": "+524737320666",
+      "name": "Hotel Mesón del Rosario",
+      "latitude": 21.0174667,
+      "longitude": -101.25560019999999,
+      "full_address": "Hotel Mesón del Rosario, Av. Benito Juárez 31, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 461,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.hotelmesondelrosario.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b74089c8a8b83:0xc96524b598fc0fd9",
+      "cid": "14512045736645627865",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg4uKnAh0K4QR2Q_8mLUkZck&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "106876495200879191808",
+      "owner_link": "https://maps.google.com/maps/contrib/106876495200879191808",
+      "owner_name": "Hotel Mesón del Rosario",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPBCNEmOngdTf0cG9STDDdgcDUO_-2BfJkPSKmq",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPBCNEmOngdTf0cG9STDDdgcDUO_-2BfJkPSKmq",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPBCNEmOngdTf0cG9STDDdgcDUO_-2BfJkPSKmq=w3888-h2592-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0173427,
+              "longitude": -101.25558129999999,
+              "type": "photo",
+              "photo_datetime_utc": "2017-10-06T00:00:00.000Z",
+              "photo_timestamp": 1507248000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 18,
+          "2": 16,
+          "3": 68,
+          "4": 139,
+          "5": 220
+      },
+      "photo_count": 512,
+      "about": {
+          "summary": "Set in an 1847 stone building, this quaint hotel is a 3-minute walk from the colorful Callejón Del Beso alley and a 5-minute walk from Alhóndiga de Granaditas, an art and history museum in an 18th-century granary. Accessed through exterior corridors, the unpretentious, warmly decorated rooms with polished wood furnishings sleep up to 8 guests, and come with free Wi-Fi, cable TV and fans. Unique architectural features include vaulted ceilings and exposed brick archways. There's no air-conditioning. There's an interior courtyard with exposed staircases and wrought-iron balconies, as well as a rustic lobby lounge with medieval-inspired decor.",
+          "details": null
+      },
+      "address": "Av. Benito Juárez 31, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Av. Benito Juárez 31",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.15,
+              "summary": [
+                  "Some guests commented the rooms were small",
+                  "Some guests said the bathrooms were small"
+              ]
+          },
+          "Location": {
+              "score": 4.1,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407c4ace793:0x4d248d56e879c21a",
+      "google_id": "0x842b7407c4ace793:0x4d248d56e879c21a",
+      "place_id": "ChIJk-esxAd0K4QRGsJ56FaNJE0",
+      "google_mid": "/g/11xzm6m2x",
+      "phone_number": "+524737327657",
+      "name": "Casona Alonso 10",
+      "latitude": 21.0158606,
+      "longitude": -101.25402659999999,
+      "full_address": "Casona Alonso 10, Calle de Alonso #10, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 231,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.casonaalonso10.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407c4ace793:0x4d248d56e879c21a",
+      "cid": "5558723244489032218",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk-esxAd0K4QRGsJ56FaNJE0&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "108879986187418556617",
+      "owner_link": "https://maps.google.com/maps/contrib/108879986187418556617",
+      "owner_name": "Casona Alonso 10",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://photos.hotelbeds.com/giata/original/60/602191/602191a_hb_w_014.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WILr-4jugu9GD0q5a9TrwL8HRRfO0KXdz76MNTBI5dATnUb_cAQtDnbV8xNz3xm8RL_al2EToPlotzdt9zG8Sl-TOPs1sK7K0pauUnws3V6zLDIkLdgIrQndROf7Q0v6d6n2kLV1l6XyhY63I_AQCgZT-yhyS_mgyBbzmwz81gbwIZHgnSbqzBYTA",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WILr-4jugu9GD0q5a9TrwL8HRRfO0KXdz76MNTBI5dATnUb_cAQtDnbV8xNz3xm8RL_al2EToPlotzdt9zG8Sl-TOPs1sK7K0pauUnws3V6zLDIkLdgIrQndROf7Q0v6d6n2kLV1l6XyhY63I_AQCgZT-yhyS_mgyBbzmwz81gbwIZHgnSbqzBYTA=w2000-h1333-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.015891,
+              "longitude": -101.253985,
+              "type": "photo",
+              "photo_datetime_utc": "2021-04-20T00:00:00.000Z",
+              "photo_timestamp": 1618876800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 9,
+          "2": 4,
+          "3": 8,
+          "4": 50,
+          "5": 160
+      },
+      "photo_count": 366,
+      "about": {
+          "summary": "Housed in a 18th-century Spanish Colonial-style residence in the historic center of the city, this stylish hotel is a 2-minute walk from the 17th-century Parroquia de Basílica Colegiata de Nuestra Señora de Guanajuato church, and 1.8 km from the Museo De Las Momias de Guanajuato. Featuring artwork by local and international artists, the 8 refined rooms are individually decorated and offer Wi-Fi, minibars, safes and flat-screen TVs with cable channels, as well as iPod docking stations and coffeemakers. Some have sofas and balconies. Room service is offered. Amenities include a rustic-chic restaurant, and a bar with a wine cellar.",
+          "details": null
+      },
+      "address": "Calle de Alonso #10, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Calle de Alonso #10",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 4.7,
+              "summary": [
+                  "Guests liked the beds, though some noted the rooms could be quieter",
+                  "Guests liked the large rooms"
+              ]
+          },
+          "Location": {
+              "score": 4.35
+          },
+          "Service & facilities": {
+              "score": 4.25,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740fbb79e275:0x59cbf12caca2252f",
+      "google_id": "0x842b740fbb79e275:0x59cbf12caca2252f",
+      "place_id": "ChIJdeJ5uw90K4QRLyWirCzxy1k",
+      "google_mid": "/g/1tdvq1l2",
+      "phone_number": "+524737326888",
+      "name": "Hotel Mansión del Cantador",
+      "latitude": 21.018086399999998,
+      "longitude": -101.2617739,
+      "full_address": "Hotel Mansión del Cantador, Cantador No. 19, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 988,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://mansiondelcantador.com.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740fbb79e275:0x59cbf12caca2252f",
+      "cid": "6470530463825012015",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdeJ5uw90K4QRLyWirCzxy1k&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "101170050353084896757",
+      "owner_link": "https://maps.google.com/maps/contrib/101170050353084896757",
+      "owner_name": "Hotel Mansión del Cantador",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNUgcsJ--Oc-UlpYJFEOfueBMiEWuY-2iIR0E55",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNUgcsJ--Oc-UlpYJFEOfueBMiEWuY-2iIR0E55",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNUgcsJ--Oc-UlpYJFEOfueBMiEWuY-2iIR0E55=w4192-h2358-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.017988199999998,
+              "longitude": -101.26177020000002,
+              "type": "photo",
+              "photo_datetime_utc": "2021-02-06T00:00:00.000Z",
+              "photo_timestamp": 1612569600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 35,
+          "2": 30,
+          "3": 96,
+          "4": 291,
+          "5": 536
+      },
+      "photo_count": 737,
+      "about": {
+          "summary": "Overlooking Parque Porfirio Díaz park, this Colonial-style hotel in the city center is a 9-minute walk from the Museo Regional de Guanajuato museum, and 1.3 km from the statue and lookout at Monumento al Pípila. Featuring traditional decor and tiled floors, the standard rooms and suites come with complimentary Wi-Fi, flat-screen TVs and safes. Up to 2 kids age 6 and under stay free with parents. In addition to complimentary hot breakfast, there's an airy restaurant/bar with a balcony. Other amenities include a guest lounge and a sundeck.",
+          "details": null
+      },
+      "address": "Cantador No. 19, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Cantador No. 19",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.6,
+              "summary": [
+                  "Guests liked the clean rooms, though some commented they were small",
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Some guests said the bathrooms were small & cleanliness could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.05,
+              "summary": [
+                  "Near the city center; shopping & sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.6,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b740edc86454d:0xc5c7f2b6c681c075",
+      "google_id": "0x842b740edc86454d:0xc5c7f2b6c681c075",
+      "place_id": "ChIJTUWG3A50K4QRdcCBxrbyx8U",
+      "google_mid": "/g/1tl4dbxz",
+      "phone_number": "+524737321884",
+      "name": "Hotel Murillo Plaza",
+      "latitude": 21.019779099999997,
+      "longitude": -101.259045,
+      "full_address": "Hotel Murillo Plaza, Insurgencia 9, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 377,
+      "rating": 3.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelmurilloplaza.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b740edc86454d:0xc5c7f2b6c681c075",
+      "cid": "14251626412665585781",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTUWG3A50K4QRdcCBxrbyx8U&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113812982719667698119",
+      "owner_link": "https://maps.google.com/maps/contrib/113812982719667698119",
+      "owner_name": "Hotel Murillo Plaza",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipNUqdwEyYA-ems3mwnoj3TDNan6S687v39SrDyX",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipNUqdwEyYA-ems3mwnoj3TDNan6S687v39SrDyX",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipNUqdwEyYA-ems3mwnoj3TDNan6S687v39SrDyX=w5873-h3915-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.019862099999997,
+              "longitude": -101.25897529999999,
+              "type": "photo",
+              "photo_datetime_utc": "2021-02-20T00:00:00.000Z",
+              "photo_timestamp": 1613779200
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 44,
+          "2": 31,
+          "3": 91,
+          "4": 99,
+          "5": 112
+      },
+      "photo_count": 379,
+      "about": {
+          "summary": "Set in the historic old town, this modest hotel is 3 minutes' walk from Alhóndiga de Granaditas museum and a 5-minute walk from shopping at the Mercado Hidalgo. Casual rooms provide dark wood furniture and flat-screen TVs; some offer city views. Breakfast is available. Amenities include a modest cafe and a lobby lounge. There's also a rooftop terrace with sunloungers.",
+          "details": null
+      },
+      "address": "Insurgencia 9, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Insurgencia 9",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2,
+              "summary": [
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Rooms had views",
+                  "Some guests commented cleanliness could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.65,
+              "summary": [
+                  "Near the city center"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.55,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7405791bd911:0xf66411bf24a0d87e",
+      "google_id": "0x842b7405791bd911:0xf66411bf24a0d87e",
+      "place_id": "ChIJEdkbeQV0K4QRftigJL8RZPY",
+      "google_mid": "/g/1tg3bf5j",
+      "phone_number": "+524737323993",
+      "name": "Hotel Misión Grand Casa Colorada",
+      "latitude": 21.0137386,
+      "longitude": -101.2557296,
+      "full_address": "Hotel Misión Grand Casa Colorada, Cerro de San Miguel 13, Colonia Lomas de Pozuelo, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 794,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.hotelesmision.com.mx/destinos/guanajuato/hotel-mision-grand-casa-colorada",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7405791bd911:0xf66411bf24a0d87e",
+      "cid": "17754335143652284542",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEdkbeQV0K4QRftigJL8RZPY&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113630277277492853447",
+      "owner_link": "https://maps.google.com/maps/contrib/113630277277492853447",
+      "owner_name": "Hotel Misión Grand Casa Colorada",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/3000000/2060000/2059600/2059575/35d2a076_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIpM34sq-xAbLUGqADB9VtsLS2asyItBeGVmTANPlEuZUQwjAICj_TF5QfPE1x5PrOItwp9hAQqAqIvuS9kYRS5orHf4W0BwFoVnfsLq64Ok7AmW3E504r7-1-ZAvsH8lNMaqJ4WTH3kIy5P-gRBMLP-kT9uHtsZTSf8CV93coeJt7S_0IiHb4KCg",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIpM34sq-xAbLUGqADB9VtsLS2asyItBeGVmTANPlEuZUQwjAICj_TF5QfPE1x5PrOItwp9hAQqAqIvuS9kYRS5orHf4W0BwFoVnfsLq64Ok7AmW3E504r7-1-ZAvsH8lNMaqJ4WTH3kIy5P-gRBMLP-kT9uHtsZTSf8CV93coeJt7S_0IiHb4KCg=w1000-h700-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0135899,
+              "longitude": -101.2558682,
+              "type": "photo",
+              "photo_datetime_utc": "2023-04-09T00:00:00.000Z",
+              "photo_timestamp": 1680998400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 44,
+          "2": 20,
+          "3": 63,
+          "4": 193,
+          "5": 474
+      },
+      "photo_count": 1316,
+      "about": {
+          "summary": "This grand, Spanish Colonial-style hotel on a landscaped property is a kilometer from the legendary Callejón Del Beso alley and 3 km from the Jardin de la Unión. Stately, individually decorated suites with free Wi-Fi, TVs and sitting areas offer touches such as wood ceilings and carved beds, fireplaces, vivid tiled bathrooms and/or antique furnishings. Some suites have living rooms and/or terraces. Room service is available. Parking is free. A swanky restaurant with elevated ceilings features a terrace with city views. Conference facilities are available.",
+          "details": null
+      },
+      "address": "Cerro de San Miguel 13, Colonia Lomas de Pozuelo, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Colonia Lomas de Pozuelo",
+      "street_address": "Cerro de San Miguel 13",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 4.1,
+              "summary": [
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 5
+          },
+          "Service & facilities": {
+              "score": 2.45
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7157b041d709:0x9d8c03eb7efc2f6d",
+      "google_id": "0x842b7157b041d709:0x9d8c03eb7efc2f6d",
+      "place_id": "ChIJCddBsFdxK4QRbS_8fusDjJ0",
+      "google_mid": "/g/1td13lm1",
+      "phone_number": "+524737311517",
+      "name": "Hotel Quinta Las Acacias",
+      "latitude": 21.002784899999998,
+      "longitude": -101.24161889999999,
+      "full_address": "Hotel Quinta Las Acacias, Paseo De La Presa, Presa de La Olla 168, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 237,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.quintalasacacias.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7157b041d709:0x9d8c03eb7efc2f6d",
+      "cid": "11352453070676832109",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCddBsFdxK4QRbS_8fusDjJ0&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113986828347425036849",
+      "owner_link": "https://maps.google.com/maps/contrib/113986828347425036849",
+      "owner_name": "Hotel Quinta Las Acacias",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/1000000/540000/530800/530709/fd976dd1_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIifL63zZmZD21IoeSm7M1Dck6kvRYyXKbpVNmh8xNdmA8tt6sf5_NERrodvSXQuSCTx7TTElVC654cTDaBU85wLS46CdYkQ0AnRPYAk4bo_4jM_ELM1eI190ySqVQvKEj-tfF24lRtfR78v7GABkPA9FeMcmclmjhOpJ_OLFgKsCL0sGWKiCStEA",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIifL63zZmZD21IoeSm7M1Dck6kvRYyXKbpVNmh8xNdmA8tt6sf5_NERrodvSXQuSCTx7TTElVC654cTDaBU85wLS46CdYkQ0AnRPYAk4bo_4jM_ELM1eI190ySqVQvKEj-tfF24lRtfR78v7GABkPA9FeMcmclmjhOpJ_OLFgKsCL0sGWKiCStEA=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0027126,
+              "longitude": -101.2416495,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-14T00:00:00.000Z",
+              "photo_timestamp": 1678752000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 7,
+          "2": 5,
+          "3": 5,
+          "4": 34,
+          "5": 186
+      },
+      "photo_count": 473,
+      "about": {
+          "summary": "Overlooking the mountains of Guanajuato and a 3-minute walk from the Presa de La Olla lake, this elegant hotel in a 19th-century, Colonial-style home is 3 km from the Alhóndiga de Granaditas museum. Refined suites are individually decorated with antique furnishings and period decor, and offer Wi-Fi and en suite bathrooms. Some offer whirlpool tubs, balconies and/or 4-poster beds. There's a quaint restaurant with stained glass windows that offers breakfast, plus a wine bar. Other amenities include a hot tub and lush gardens. Parking and massages are available.",
+          "details": null
+      },
+      "address": "Paseo De La Presa, Presa de La Olla 168, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Barrio de la Presa",
+      "street_address": "Paseo De La Presa, Presa de La Olla 168",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.3,
+              "summary": [
+                  "Guests liked the large rooms",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 3.55
+          },
+          "Service & facilities": {
+              "score": 4.5,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7473888549cd:0xf3245047ce23ee7b",
+      "google_id": "0x842b7473888549cd:0xf3245047ce23ee7b",
+      "place_id": "ChIJzUmFiHN0K4QRe-4jzkdQJPM",
+      "google_mid": "/g/1tnjjx57",
+      "phone_number": "+524777404111",
+      "name": "Hotel Suites Corazón Mexicano",
+      "latitude": 21.0316314,
+      "longitude": -101.258583,
+      "full_address": "Hotel Suites Corazón Mexicano, San Javier S/N, San Javier, 36020 Guanajuato, Gto., Mexico",
+      "review_count": 976,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.corazonmexicanogto.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7473888549cd:0xf3245047ce23ee7b",
+      "cid": "17520216719709433467",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzUmFiHN0K4QRe-4jzkdQJPM&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "105921861118742398513",
+      "owner_link": "https://maps.google.com/maps/contrib/105921861118742398513",
+      "owner_name": "Hotel Suites Corazón Mexicano",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/2000000/1580000/1571800/1571767/8f13ce42_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIHKUnYciMTD9_t_ZvQTCjTvEiT-TcVcesrB2wakOUR0G3WK3q20wouTgzsj7bISqQn3njrGJWdkYX8fqpvNfCD-Cn31IaneWv7a2iCfiZJXN6TxZ9KZ8bY23sdBZ93vQKAuq95-Og8cTGqmplWwXALPw52g5A4-O2J-vYzCVYOTRzjapUaK0xPYA",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIHKUnYciMTD9_t_ZvQTCjTvEiT-TcVcesrB2wakOUR0G3WK3q20wouTgzsj7bISqQn3njrGJWdkYX8fqpvNfCD-Cn31IaneWv7a2iCfiZJXN6TxZ9KZ8bY23sdBZ93vQKAuq95-Og8cTGqmplWwXALPw52g5A4-O2J-vYzCVYOTRzjapUaK0xPYA=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.031469599999998,
+              "longitude": -101.2581517,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-10T00:00:00.000Z",
+              "photo_timestamp": 1678406400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 37,
+          "2": 28,
+          "3": 89,
+          "4": 291,
+          "5": 531
+      },
+      "photo_count": 551,
+      "about": {
+          "summary": "This unassuming all-suite hotel is 2 km from the art and history exhibits at the Alhóndiga de Granaditas and 2 km from the Museo De Las Momias de Guanajuato. Streamlined rooms feature living rooms, dining areas and pull-out sofas. All include free Wi-Fi, flat-screen TVs, minibars and microwaves; some offer city views. Room service is available. Parking is provided at no cost. Other amenities include a restaurant, a terrace and a bar. There's also a fitness room.",
+          "details": null
+      },
+      "address": "San Javier S/N, San Javier, 36020 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "San Javier",
+      "street_address": "San Javier S/N",
+      "city": "Guanajuato",
+      "zipcode": "36020",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b71f64dd47461:0xe5117d4ff0b76abe",
+      "google_id": "0x842b71f64dd47461:0xe5117d4ff0b76abe",
+      "place_id": "ChIJYXTUTfZxK4QRvmq38E99EeU",
+      "google_mid": "/g/11rq_rpp_q",
+      "phone_number": "+524737384672",
+      "name": "Hotel Boutique Corazón Mexicano",
+      "latitude": 21.0038911,
+      "longitude": -101.2441477,
+      "full_address": "Hotel Boutique Corazón Mexicano, P.º de La Presa 142, Barrio de la Presa, 36094 Guanajuato, Gto., Mexico",
+      "review_count": 36,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.corazonmexicanogto.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b71f64dd47461:0xe5117d4ff0b76abe",
+      "cid": "16506111891584019134",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYXTUTfZxK4QRvmq38E99EeU&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "100171731204951292243",
+      "owner_link": "https://maps.google.com/maps/contrib/100171731204951292243",
+      "owner_name": "Hotel Boutique Corazón Mexicano",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/88000000/87710000/87706000/87705997/69e0e80d_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIleXxflZb5scNzf-0BPWkgnK13MmS-Jbj5RJ95_Lhpc9Rr6WoNLHhAQevOXJiUQYPH59LDdaMjVEprVzs1hLeqKTe3zEVo7EfaV2lTpSLr23HeYhqwNgxdO47dgs5A8x2JVSzSJnd_WCwGib2ocyI6y0g8GBam8hR6QD4TkpLcgnEp8e35VLde3w",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIleXxflZb5scNzf-0BPWkgnK13MmS-Jbj5RJ95_Lhpc9Rr6WoNLHhAQevOXJiUQYPH59LDdaMjVEprVzs1hLeqKTe3zEVo7EfaV2lTpSLr23HeYhqwNgxdO47dgs5A8x2JVSzSJnd_WCwGib2ocyI6y0g8GBam8hR6QD4TkpLcgnEp8e35VLde3w=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0038344,
+              "longitude": -101.24416339999999,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-11T00:00:00.000Z",
+              "photo_timestamp": 1678492800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 7,
+          "5": 26
+      },
+      "photo_count": 81,
+      "about": null,
+      "address": "P.º de La Presa 142, Barrio de la Presa, 36094 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Barrio de la Presa",
+      "street_address": "P.º de La Presa 142",
+      "city": "Guanajuato",
+      "zipcode": "36094",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": null,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b7427b3cfdb37:0x61d07a9dcfdb8f85",
+      "google_id": "0x842b7427b3cfdb37:0x61d07a9dcfdb8f85",
+      "place_id": "ChIJN9vPsyd0K4QRhY_bz5160GE",
+      "google_mid": "/g/1vfp8jfn",
+      "phone_number": "+524737352000",
+      "name": "Holiday Inn Express Guanajuato",
+      "latitude": 20.987914,
+      "longitude": -101.2862373,
+      "full_address": "Holiday Inn Express Guanajuato, Carr. Guanajuato - Juventino Rosas 120, Burocrata, 36250 Guanajuato, Gto., Mexico",
+      "review_count": 2382,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/guanajuato/bjxgc/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-MX-_-BJXGC",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7427b3cfdb37:0x61d07a9dcfdb8f85",
+      "cid": "7048268235050553221",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN9vPsyd0K4QRhY_bz5160GE&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "105339123095628441165",
+      "owner_link": "https://maps.google.com/maps/contrib/105339123095628441165",
+      "owner_name": "Holiday Inn Express Guanajuato",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Conference center"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/1000000/850000/846700/846654/3c4d6125_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIudX1bSPhYMUOzxq3WFhQsRNHsQoErWcj2YBLfL_I3dmtewQCH7Q-TGWKPNPHe7cch4TLTLKGvZOhewDA-Ny35yYboG-0ZF5TrPCC1W1F3TAC0XzzbH4dR6nXS-ZKNhws6aeLVRZRAGqEb69kHD8N0JmnDh9LEZU8uykRqbQdqDg_BynoYmJyx",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WIudX1bSPhYMUOzxq3WFhQsRNHsQoErWcj2YBLfL_I3dmtewQCH7Q-TGWKPNPHe7cch4TLTLKGvZOhewDA-Ny35yYboG-0ZF5TrPCC1W1F3TAC0XzzbH4dR6nXS-ZKNhws6aeLVRZRAGqEb69kHD8N0JmnDh9LEZU8uykRqbQdqDg_BynoYmJyx=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 20.987854799999997,
+              "longitude": -101.28594980000001,
+              "type": "photo",
+              "photo_datetime_utc": "2023-03-11T00:00:00.000Z",
+              "photo_timestamp": 1678492800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 58,
+          "2": 46,
+          "3": 162,
+          "4": 666,
+          "5": 1450
+      },
+      "photo_count": 1972,
+      "about": {
+          "summary": "Amid shops and eateries along a main thoroughfare, this informal hotel in a bright building is 7 km from the Museo De Las Momias de Guanajuato and 23 km from Guanajuato International Airport. The unfussy rooms feature free Wi-Fi, flat-screen TVs and coffeemakers, plus safes. Suites add living rooms and pull-out sofas. Freebies consist of breakfast and parking. There's a restaurant, an indoor pool and a fitness center. Other amenities include a children's play area and a business center.",
+          "details": null
+      },
+      "address": "Carr. Guanajuato - Juventino Rosas 120, Burocrata, 36250 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Burocrata",
+      "street_address": "Carr. Guanajuato - Juventino Rosas 120",
+      "city": "Guanajuato",
+      "zipcode": "36250",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3,
+              "summary": [
+                  "Guests liked the large rooms, though some said cleanliness & maintenance could be improved",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 3.9,
+              "summary": [
+                  "Easily accessible by car; parking available"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.35,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Guests spoke highly of the reception staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b75b09f993e15:0xe14b44d00d974aba",
+      "google_id": "0x842b75b09f993e15:0xe14b44d00d974aba",
+      "place_id": "ChIJFT6Zn7B1K4QRukqXDdBES-E",
+      "google_mid": "/g/11t2c3v8wr",
+      "phone_number": "+524737340942",
+      "name": "Hotel Plata Condesa",
+      "latitude": 21.0173234,
+      "longitude": -101.2547663,
+      "full_address": "Hotel Plata Condesa, Cjon. de la Condesa 2, Centro Histórico, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 30,
+      "rating": 4.4,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://hotelplatacondesa.com.mx",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b75b09f993e15:0xe14b44d00d974aba",
+      "cid": "16234144942158990010",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFT6Zn7B1K4QRukqXDdBES-E&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113733219578680903600",
+      "owner_link": "https://maps.google.com/maps/contrib/113733219578680903600",
+      "owner_name": "Hotel Plata Condesa",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/84000000/83090000/83087100/83087098/9160372f_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLgOlufatuTM7GDPwQIF7Ax4pxGFcQfVeaUTqysQeDYDC5QHCzYtfL9Ma_TXvubGRUJRcIQE3lAKUar-WDZPSw1HWAfIfawxD9n_pa0tZGZ8lUiEhIQAupRsF7q9eO8MJH-DaMwttFBorwTqmFVU41Obx9LU_2JSJ8UjGzi7sQpOfZuiX4iCC9YzA",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLgOlufatuTM7GDPwQIF7Ax4pxGFcQfVeaUTqysQeDYDC5QHCzYtfL9Ma_TXvubGRUJRcIQE3lAKUar-WDZPSw1HWAfIfawxD9n_pa0tZGZ8lUiEhIQAupRsF7q9eO8MJH-DaMwttFBorwTqmFVU41Obx9LU_2JSJ8UjGzi7sQpOfZuiX4iCC9YzA=w1000-h667-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0173106,
+              "longitude": -101.2547412,
+              "type": "photo",
+              "photo_datetime_utc": "2023-07-13T00:00:00.000Z",
+              "photo_timestamp": 1689206400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 9,
+          "5": 18
+      },
+      "photo_count": 83,
+      "about": null,
+      "address": "Cjon. de la Condesa 2, Centro Histórico, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Centro Histórico",
+      "street_address": "Cjon. de la Condesa 2",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b73f7e2c142f9:0x41e4b3fe732db702",
+      "google_id": "0x842b73f7e2c142f9:0x41e4b3fe732db702",
+      "place_id": "ChIJ-ULB4vdzK4QRArctc_6z5EE",
+      "google_mid": "/g/11b5ykq5qk",
+      "phone_number": "+524737328617",
+      "name": "Hotel Spa Casa del Sol Guanajuato",
+      "latitude": 21.0176449,
+      "longitude": -101.2521515,
+      "full_address": "Hotel Spa Casa del Sol Guanajuato, C. del Sol 10, colonia centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 577,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://casa-del-sol.getguanajuatohotels.com/es",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73f7e2c142f9:0x41e4b3fe732db702",
+      "cid": "4748117812590786306",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-ULB4vdzK4QRArctc_6z5EE&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "106537643046890996436",
+      "owner_link": "https://maps.google.com/maps/contrib/106537643046890996436",
+      "owner_name": "Hotel Spa Casa del Sol Guanajuato",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Health spa",
+          "Massage spa"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOdjCBuzuZbJS1C4U4--TT3xGXH6-dGKttvigpG",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOdjCBuzuZbJS1C4U4--TT3xGXH6-dGKttvigpG",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOdjCBuzuZbJS1C4U4--TT3xGXH6-dGKttvigpG=w960-h673-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0176433,
+              "longitude": -101.2522844,
+              "type": "photo",
+              "photo_datetime_utc": "2014-09-22T00:00:00.000Z",
+              "photo_timestamp": 1411344000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 43,
+          "2": 18,
+          "3": 56,
+          "4": 169,
+          "5": 291
+      },
+      "photo_count": 556,
+      "about": {
+          "summary": "In a Spanish Colonial-style building on a residential street, this informal hotel is 3 minutes' walk from shops and eateries in lively Plaza de La Paz, and 2 km from Highway 110. Straightforward, warmly decorated rooms come with Wi-Fi access and cable TV; some sleep up to 8 people. A suites offers a microwave, a minifridge and a balcony. Coffee is provided at no additional cost. There's also a terrace. Parking is available.",
+          "details": null
+      },
+      "address": "C. del Sol 10, colonia centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "colonia centro",
+      "street_address": "C. del Sol 10",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.85,
+              "summary": [
+                  "Some guests said the rooms were small, and that cleanliness & maintenance could be improved",
+                  "Some guests noted the rooms could be quieter & beds could be improved",
+                  "Rooms had views"
+              ]
+          },
+          "Location": {
+              "score": 4.4,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.05,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7407da02744b:0xa2eba750520d4a8",
+      "google_id": "0x842b7407da02744b:0xa2eba750520d4a8",
+      "place_id": "ChIJS3QC2gd0K4QRqNQgBXW6Lgo",
+      "google_mid": "/g/1hhkrl25n",
+      "phone_number": "+524737327009",
+      "name": "Hotel Santa Regina",
+      "latitude": 21.016287,
+      "longitude": -101.2544458,
+      "full_address": "Hotel Santa Regina, Calle de Alonso 26, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 531,
+      "rating": 4.3,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelsantaregina.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7407da02744b:0xa2eba750520d4a8",
+      "cid": "733728801067947176",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS3QC2gd0K4QRqNQgBXW6Lgo&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "104057540503140675711",
+      "owner_link": "https://maps.google.com/maps/contrib/104057540503140675711",
+      "owner_name": "Hotel Santa Regina",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipOvr60E_DYrx1JB79YHpIFyKL4DWGT51EJ2wB5S",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipOvr60E_DYrx1JB79YHpIFyKL4DWGT51EJ2wB5S",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipOvr60E_DYrx1JB79YHpIFyKL4DWGT51EJ2wB5S=w6057-h4038-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0163457,
+              "longitude": -101.25436529999999,
+              "type": "photo",
+              "photo_datetime_utc": "2020-02-10T00:00:00.000Z",
+              "photo_timestamp": 1581292800
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 19,
+          "2": 17,
+          "3": 47,
+          "4": 130,
+          "5": 318
+      },
+      "photo_count": 481,
+      "about": {
+          "summary": "A 3-minute walk from 1900s Teatro Juarez, this unpretentious hotel is a 7-minute walk from the Regional Museum of Guanajuato Alhóndiga de Granaditas and 2 km from the Museum of the Mummies of Guanajuato. The simple rooms, some with bright accent walls, feature ceiling fans and safes. Some include balconies. Family rooms sleep up to 6 guests. There's no air-conditioning. Wi-Fi is available. There's a modest lobby sitting area.",
+          "details": null
+      },
+      "address": "Calle de Alonso 26, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Calle de Alonso 26",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true,
+          "Free breakfast": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.85,
+              "summary": [
+                  "Guests liked the large, clean rooms, though some commented maintenance could be improved",
+                  "Guests liked the beds, though some noted the rooms could be quieter",
+                  "Some guests mentioned bathroom cleanliness could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.25,
+              "summary": [
+                  "Near the city center; sightseeing, restaurants & bars nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b74115a9269cf:0x7b94c59c701807ec",
+      "google_id": "0x842b74115a9269cf:0x7b94c59c701807ec",
+      "place_id": "ChIJz2mSWhF0K4QR7AcYcJzFlHs",
+      "google_mid": "/g/11h4tryqk4",
+      "phone_number": "+524731027067",
+      "name": "Casa Malva Sweet Stay",
+      "latitude": 21.0188229,
+      "longitude": -101.2684372,
+      "full_address": "Casa Malva Sweet Stay, Cam. a Las Momias 31, Pueblito de Rocha, 36040 Guanajuato, Gto., Mexico",
+      "review_count": 141,
+      "rating": 4.6,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": null,
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b74115a9269cf:0x7b94c59c701807ec",
+      "cid": "8904959638904506348",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz2mSWhF0K4QR7AcYcJzFlHs&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "107276478824832580859",
+      "owner_link": "https://maps.google.com/maps/contrib/107276478824832580859",
+      "owner_name": "Casa Malva Sweet Stay",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipMVeRECbh6w36yYvDMXrzqJ5bhrEEqB4Af24mkh",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipMVeRECbh6w36yYvDMXrzqJ5bhrEEqB4Af24mkh",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipMVeRECbh6w36yYvDMXrzqJ5bhrEEqB4Af24mkh=w1280-h960-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.018806599999998,
+              "longitude": -101.2685401,
+              "type": "photo",
+              "photo_datetime_utc": "2023-06-06T00:00:00.000Z",
+              "photo_timestamp": 1686009600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 5,
+          "2": 1,
+          "3": 8,
+          "4": 18,
+          "5": 109
+      },
+      "photo_count": 210,
+      "about": {
+          "summary": "Within 5 minutes' walk of eateries, this down-to-earth hotel with views of the city is a 6-minute walk from the Museum of the Mummies of Guanajuato and 1 km from Highway 110. Understated rooms feature Wi-Fi, flat-screen TVs, safes and ceiling fans. Some have city views and/or Juliet balconies. There's also room service. Amenities include a bar with karaoke, and a furnished rooftop terrace. A breakfast buffet, parking and massages are available.",
+          "details": null
+      },
+      "address": "Cam. a Las Momias 31, Pueblito de Rocha, 36040 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Pueblito de Rocha",
+      "street_address": "Cam. a Las Momias 31",
+      "city": "Guanajuato",
+      "zipcode": "36040",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.15,
+              "summary": [
+                  "Guests liked the comfortable beds",
+                  "Rooms had views",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 2.3
+          },
+          "Service & facilities": {
+              "score": 4.45,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b75d736998109:0xd8f909262d8a81cc",
+      "google_id": "0x842b75d736998109:0xd8f909262d8a81cc",
+      "place_id": "ChIJCYGZNtd1K4QRzIGKLSYJ-dg",
+      "google_mid": "/g/11h6q7xkbz",
+      "phone_number": "+524731000516",
+      "name": "HOTEL MAGDALENA colonial",
+      "latitude": 21.0193269,
+      "longitude": -101.25815399999999,
+      "full_address": "HOTEL MAGDALENA colonial, C. 28 de Septiembre 42, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 93,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelmagdalenacolonial.mex.tl",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b75d736998109:0xd8f909262d8a81cc",
+      "cid": "15634537640970846668",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCYGZNtd1K4QRzIGKLSYJ-dg&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "118242363127571002612",
+      "owner_link": "https://maps.google.com/maps/contrib/118242363127571002612",
+      "owner_name": "HOTEL MAGDALENA colonial",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipPlzGeF1Pxbqzhm1OEhR40PilzZWB1ZTDYp2aVN",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipPlzGeF1Pxbqzhm1OEhR40PilzZWB1ZTDYp2aVN",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipPlzGeF1Pxbqzhm1OEhR40PilzZWB1ZTDYp2aVN=w2048-h1536-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0192653,
+              "longitude": -101.2581787,
+              "type": "photo",
+              "photo_datetime_utc": "2021-05-22T00:00:00.000Z",
+              "photo_timestamp": 1621641600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 0,
+          "2": 2,
+          "3": 11,
+          "4": 20,
+          "5": 60
+      },
+      "photo_count": 70,
+      "about": null,
+      "address": "C. 28 de Septiembre 42, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "C. 28 de Septiembre 42",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": null,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b77bc642c3dcb:0x8283cfdc53e4b345",
+      "google_id": "0x842b77bc642c3dcb:0x8283cfdc53e4b345",
+      "place_id": "ChIJyz0sZLx3K4QRRbPkU9zPg4I",
+      "google_mid": "/g/11fd6f0t6m",
+      "phone_number": "+524737331990",
+      "name": "Gran Plaza Hotel & Convention Center",
+      "latitude": 20.9871482,
+      "longitude": -101.284508,
+      "full_address": "Gran Plaza Hotel & Convention Center, Carr. Guanajuato - Juventino Rosas Km 6, Burocrata, 36250 Guanajuato, Gto., Mexico",
+      "review_count": 394,
+      "rating": 4.1,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://hotelgranplaza.com",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b77bc642c3dcb:0x8283cfdc53e4b345",
+      "cid": "9404588992086979397",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyz0sZLx3K4QRRbPkU9zPg4I&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "101043356549350962996",
+      "owner_link": "https://maps.google.com/maps/contrib/101043356549350962996",
+      "owner_name": "Gran Plaza Hotel & Convention Center",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "AF1QipN1kIZjA0mQ0AC7wNl6qOTjNgM6LmIarfVXybbX",
+              "photo_url": "https://lh5.googleusercontent.com/p/AF1QipN1kIZjA0mQ0AC7wNl6qOTjNgM6LmIarfVXybbX",
+              "photo_url_large": "https://lh5.googleusercontent.com/p/AF1QipN1kIZjA0mQ0AC7wNl6qOTjNgM6LmIarfVXybbX=w3587-h2870-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 20.9871418,
+              "longitude": -101.2847372,
+              "type": "photo",
+              "photo_datetime_utc": "2022-07-02T00:00:00.000Z",
+              "photo_timestamp": 1656720000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 29,
+          "2": 18,
+          "3": 37,
+          "4": 95,
+          "5": 215
+      },
+      "photo_count": 217,
+      "about": {
+          "summary": "In a whitewashed building off Federal Highway 110D, this informal hotel is 7 km from the Museum of the Mummies of Guanajuato. Featuring cushioned headboards, the airy, simply furnished rooms provide Wi-Fi, TVs and safes, as well as balconies or terraces. Upgraded rooms add Nespresso machines and smart TVs. Suites have minifridges, microwaves and whirlpool tubs. Room service is available 24/7. There's a restaurant and a bar. An outdoor pool is flanked by a sundeck and palm trees. The lobby features striking artwork and a vaulted redbrick ceiling. Other amenities consist of event space, parking and a city center shuttle.",
+          "details": null
+      },
+      "address": "Carr. Guanajuato - Juventino Rosas Km 6, Burocrata, 36250 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Burocrata",
+      "street_address": "Carr. Guanajuato - Juventino Rosas Km 6",
+      "city": "Guanajuato",
+      "zipcode": "36250",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 4,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 2.25,
+              "summary": [
+                  "Some guests said the rooms were small, and that cleanliness & maintenance could be improved",
+                  "Some guests mentioned the bathrooms could be improved"
+              ]
+          },
+          "Location": {
+              "score": 3.65
+          },
+          "Service & facilities": {
+              "score": 3.6,
+              "summary": [
+                  "Guests appreciated the friendly, professional staff",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b73f92a83d8e5:0x82707000d423704f",
+      "google_id": "0x842b73f92a83d8e5:0x82707000d423704f",
+      "place_id": "ChIJ5diDKvlzK4QRT3Aj1ABwcII",
+      "google_mid": "/g/1tg50rhn",
+      "phone_number": "+524737310105",
+      "name": "Hotel y Restaurant Embajadoras",
+      "latitude": 21.010343199999998,
+      "longitude": -101.2501173,
+      "full_address": "Hotel y Restaurant Embajadoras, Parque Embajadoras, Guanajuato 36000, Embajadoras 2, Zona Centro, 36094 Guanajuato, Gto., Mexico",
+      "review_count": 682,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "http://www.hotelembajadoras.net",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73f92a83d8e5:0x82707000d423704f",
+      "cid": "9399135571183628367",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5diDKvlzK4QRT3Aj1ABwcII&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "100085514943333663280",
+      "owner_link": "https://maps.google.com/maps/contrib/100085514943333663280",
+      "owner_name": "Hotel y Restaurant Embajadoras",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Breakfast restaurant",
+          "Restaurant"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/23000000/22440000/22438500/22438441/a0df9afd_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJ6H3x8n39vZRB8lSzonFXgvxD5gwGYTxRrDR3gMKqMokJQ6-EU79zejFtFZCWeLk33isjYpaCi9edg8Z2YPjNdcGFgK6qlOj5fUA2-d1_lQtBq2ZhyAdl6uo7gDxrHHLMVW0_iq_3W-rHYkOPcIVDqKQKm-MJy7DrX6VU8N1Z6vOSOkqf7Rjs",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WJ6H3x8n39vZRB8lSzonFXgvxD5gwGYTxRrDR3gMKqMokJQ6-EU79zejFtFZCWeLk33isjYpaCi9edg8Z2YPjNdcGFgK6qlOj5fUA2-d1_lQtBq2ZhyAdl6uo7gDxrHHLMVW0_iq_3W-rHYkOPcIVDqKQKm-MJy7DrX6VU8N1Z6vOSOkqf7Rjs=w1000-h666-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.010508899999998,
+              "longitude": -101.2501953,
+              "type": "photo",
+              "photo_datetime_utc": "2023-11-04T00:00:00.000Z",
+              "photo_timestamp": 1699056000
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 28,
+          "2": 28,
+          "3": 88,
+          "4": 176,
+          "5": 362
+      },
+      "photo_count": 772,
+      "about": {
+          "summary": "In an area with commercial properties and residential streets, this informal hotel is 2 km from both Highway 110 and Alhóndiga de Granaditas, a Colonial-era building housing a museum. The simply decorated rooms sleep up to 4 guests, and come with complimentary Wi-Fi and TVs. An unpretentious restaurant features a terrace. Parking is offered. Breakfast is available for a surcharge.",
+          "details": null
+      },
+      "address": "Parque Embajadoras, Guanajuato 36000, Embajadoras 2, Zona Centro, 36094 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Parque Embajadoras, Guanajuato 36000, Embajadoras 2",
+      "city": "Guanajuato",
+      "zipcode": "36094",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 3.9,
+              "summary": [
+                  "Guests liked the quiet rooms & comfortable beds",
+                  "Guests liked the large rooms"
+              ]
+          },
+          "Location": {
+              "score": 4.6,
+              "summary": [
+                  "Near the city center",
+                  "Parking available"
+              ]
+          },
+          "Service & facilities": {
+              "score": 4.55,
+              "summary": [
+                  "Guests appreciated the friendly staff"
+              ]
+          }
+      }
+  },
+  {
+      "business_id": "0x842b7408e95d29ab:0x28f68f91aada6227",
+      "google_id": "0x842b7408e95d29ab:0x28f68f91aada6227",
+      "place_id": "ChIJqyld6Qh0K4QRJ2LaqpGP9ig",
+      "google_mid": "/g/1td6yfj3",
+      "phone_number": "+524737323971",
+      "name": "Old Zaguan",
+      "latitude": 21.018383999999998,
+      "longitude": -101.25636899999999,
+      "full_address": "Old Zaguan, Positos 64, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 295,
+      "rating": 4.5,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://elviejozaguanbylunian.mxhotel.site",
+      "verified": true,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b7408e95d29ab:0x28f68f91aada6227",
+      "cid": "2951704461587407399",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqyld6Qh0K4QRJ2LaqpGP9ig&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "113595713250813043162",
+      "owner_link": "https://maps.google.com/maps/contrib/113595713250813043162",
+      "owner_name": "Old Zaguan",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel",
+          "Art gallery",
+          "Coffee shop",
+          "Lodging"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://cdn.worldota.net/t/1024x768/content/da/0e/da0e3e45b0f9d5d9bd89c2fbd092c8b6472598cf.jpeg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLrY5yDbihFkaCy9TlsWuTpw2AnNGgwZ9rZC8cnXxNUGB2YpOlyEyJf9f901cMsEZZJ3ujDiGKyAELJL6iqfo4ITv0oDc6fLguSM-y8xdWM3aZGnaT9XrWdxvLrW2A-TYzKb_90zENjV43ia4nwYzBMpB7RMtUlCqu8epjcZCqae96U3ZrmOZPdCA",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLrY5yDbihFkaCy9TlsWuTpw2AnNGgwZ9rZC8cnXxNUGB2YpOlyEyJf9f901cMsEZZJ3ujDiGKyAELJL6iqfo4ITv0oDc6fLguSM-y8xdWM3aZGnaT9XrWdxvLrW2A-TYzKb_90zENjV43ia4nwYzBMpB7RMtUlCqu8epjcZCqae96U3ZrmOZPdCA=w1024-h768-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.018437,
+              "longitude": -101.25633119999999,
+              "type": "photo",
+              "photo_datetime_utc": "2022-07-03T00:00:00.000Z",
+              "photo_timestamp": 1656806400
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 5,
+          "2": 11,
+          "3": 23,
+          "4": 63,
+          "5": 193
+      },
+      "photo_count": 214,
+      "about": null,
+      "address": "Positos 64, Zona Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Zona Centro",
+      "street_address": "Positos 64",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 2,
+      "hotel_review_summary": null
+  },
+  {
+      "business_id": "0x842b73f802c3d747:0xa254990d2fbfcce2",
+      "google_id": "0x842b73f802c3d747:0xa254990d2fbfcce2",
+      "place_id": "ChIJR9fDAvhzK4QR4sy_Lw2ZVKI",
+      "google_mid": "/g/11cmsq4gj4",
+      "phone_number": "+524737324199",
+      "name": "Hotel Plaza Baratillo",
+      "latitude": 21.016743899999998,
+      "longitude": -101.25178609999999,
+      "full_address": "Hotel Plaza Baratillo, Alameda 4, Centro, 36000 Guanajuato, Gto., Mexico",
+      "review_count": 387,
+      "rating": 4.2,
+      "timezone": "America/Mexico_City",
+      "working_hours": null,
+      "website": "https://hotelplazabaratillo.mxhotel.site",
+      "verified": false,
+      "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x842b73f802c3d747:0xa254990d2fbfcce2",
+      "cid": "11697142414102744290",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR9fDAvhzK4QR4sy_Lw2ZVKI&q=hoteles+en+guanajuato&authuser=0&hl=en&gl=US",
+      "owner_id": "116819907518878099365",
+      "owner_link": "https://maps.google.com/maps/contrib/116819907518878099365",
+      "owner_name": "Hotel Plaza Baratillo",
+      "booking_link": null,
+      "reservations_link": null,
+      "business_status": "OPEN",
+      "type": "Hotel",
+      "subtypes": [
+          "Hotel"
+      ],
+      "photos_sample": [
+          {
+              "photo_id": "https://images.trvl-media.com/lodging/23000000/22420000/22414800/22414774/3defe64f_z.jpg",
+              "photo_url": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLNgybpvQRtVXTslSKTEesc-aMADrV1F4XZY5b9TbaqZUPkklF61-Qki0sWZnC1O48ESXQp5v9fJVVJBzvB5xVtZJCCH9b6oPjsccWHeDS4p4Ej3K6RiJS479A14KY6l5wArhgkHCNu2OzJxWI6oPdX_JnRioynfDj0auQspuWyI_L0KoHJ0gc8",
+              "photo_url_large": "https://lh3.googleusercontent.com/gps-proxy/AMy85WLNgybpvQRtVXTslSKTEesc-aMADrV1F4XZY5b9TbaqZUPkklF61-Qki0sWZnC1O48ESXQp5v9fJVVJBzvB5xVtZJCCH9b6oPjsccWHeDS4p4Ej3K6RiJS479A14KY6l5wArhgkHCNu2OzJxWI6oPdX_JnRioynfDj0auQspuWyI_L0KoHJ0gc8=w1000-h750-k-no",
+              "video_thumbnail_url": null,
+              "latitude": 21.0171645,
+              "longitude": -101.25159,
+              "type": "photo",
+              "photo_datetime_utc": "2023-10-19T00:00:00.000Z",
+              "photo_timestamp": 1697673600
+          }
+      ],
+      "reviews_per_rating": {
+          "1": 17,
+          "2": 6,
+          "3": 44,
+          "4": 131,
+          "5": 189
+      },
+      "photo_count": 211,
+      "about": null,
+      "address": "Alameda 4, Centro, 36000 Guanajuato, Gto., Mexico",
+      "order_link": null,
+      "price_level": null,
+      "district": "Centro",
+      "street_address": "Alameda 4",
+      "city": "Guanajuato",
+      "zipcode": "36000",
+      "state": "Guanajuato",
+      "country": "MX",
+      "hotel_location_rating": null,
+      "hotel_amenities": {
+          "Free Wi-Fi": true
+      },
+      "hotel_stars": 3,
+      "hotel_review_summary": {
+          "Rooms": {
+              "score": 1.95,
+              "summary": [
+                  "Some guests mentioned bathroom cleanliness could be improved",
+                  "Some guests said the rooms were small & dated, and that cleanliness & maintenance could be improved",
+                  "Some guests noted the rooms could be quieter & beds could be improved"
+              ]
+          },
+          "Location": {
+              "score": 4.7,
+              "summary": [
+                  "Near the city center; sightseeing nearby"
+              ]
+          },
+          "Service & facilities": {
+              "score": 3.65,
+              "summary": [
+                  "Guests appreciated the friendly staff",
+                  "Some guests said reception could be improved"
+              ]
+          }
+      }
+  }
+]
